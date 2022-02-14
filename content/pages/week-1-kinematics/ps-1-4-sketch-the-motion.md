@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 1: Kinematics'
+parent_type: CourseSection
 parent_uid: 63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a
 title: PS.1.4 Sketch the Motion
+type: CourseSection
 uid: 0f1188dc-261a-bcd9-fb9a-a4c677f9db3a
 ---
 

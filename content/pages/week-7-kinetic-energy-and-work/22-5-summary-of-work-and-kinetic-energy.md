@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 7: Kinetic Energy and Work'
+parent_type: CourseSection
 parent_uid: 1099b766-7930-f7e5-1ccc-c80d63899c02
 title: 22.5 Summary of Work and Kinetic Energy
+type: CourseSection
 uid: ad04436f-146e-97c2-3588-3711b1ac5558
 ---
 

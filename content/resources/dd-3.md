@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: DD.3.1 Gyroscopes 1 - Free Body Diagrams, Torque, and Rotating Vectors
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: DD.3.1 Gyroscopes 1 - Free Body Diagrams, Torque, and Rotating Vectors
 uid: 6caeb841-1578-64b9-d7b0-142bd0f61b42

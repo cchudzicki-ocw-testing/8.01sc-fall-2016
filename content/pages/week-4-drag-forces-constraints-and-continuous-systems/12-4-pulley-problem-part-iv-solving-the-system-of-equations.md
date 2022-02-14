@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 4: Drag Forces, Constraints and Continuous Systems'
+parent_type: CourseSection
 parent_uid: 919a2c50-6eb4-551d-940b-b0dbab2356f0
 title: 12.4 Pulley Problem - Part IV, Solving the System of Equations
+type: CourseSection
 uid: 4aced5bc-0a51-3981-a267-6d105738aec6
 ---
 

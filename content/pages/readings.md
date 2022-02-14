@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
 title: Readings
+type: CourseSection
 uid: 8897a3b7-567f-b552-81b3-2f8a1de7b53b
 ---
 
@@ -246,7 +249,7 @@ No Reading
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Newton's 2nd Law and Circular Motion]({{< baseurl >}}/pages/week-3-circular-motion#Lesson_11)
+[Newton's 2{{< sup "nd" >}} Law and Circular Motion]({{< baseurl >}}/pages/week-3-circular-motion#Lesson_11)
 {{< tdclose >}}
 {{< tdopen >}}
 

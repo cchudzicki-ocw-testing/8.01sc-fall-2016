@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 9: Collision Theory'
+parent_type: CourseSection
 parent_uid: bc33ee80-c8fd-90e4-dfda-7092ddd24879
 title: 27.3 Kinetic Energy and Momentum Equation
+type: CourseSection
 uid: e52887f9-1b56-8bf4-7680-7eb93ca4e396
 ---
 

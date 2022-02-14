@@ -1,9 +1,12 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 12: Rotations and Translation - Rolling'
+parent_type: CourseSection
 parent_uid: fbf76190-d89e-eed2-930e-51f9ac3bf2a6
 title: 36.2 Worked Example - Wheel Rolling Without Slipping Down Inclined Plane -
   Torque Method
+type: CourseSection
 uid: 7ec4c751-9983-1ed5-fc36-1da93d0a2ec1
 ---
 

@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Review: Vectors'
+parent_type: CourseSection
 parent_uid: f8da8d9b-f6a4-78e6-808b-aa7e6aa62306
 title: 0.6 Going Between Representations
+type: CourseSection
 uid: 888218d8-862b-ca27-4ac4-c0d76f93da6e
 ---
 

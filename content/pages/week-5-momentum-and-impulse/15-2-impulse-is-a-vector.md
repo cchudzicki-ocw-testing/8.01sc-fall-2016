@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 5: Momentum and Impulse'
+parent_type: CourseSection
 parent_uid: c1168b62-a27d-cf9f-3fe2-550af1ed72f5
 title: 15.2 Impulse is a Vector
+type: CourseSection
 uid: b216375a-21c7-e9bd-51b4-9883ed386898
 ---
 

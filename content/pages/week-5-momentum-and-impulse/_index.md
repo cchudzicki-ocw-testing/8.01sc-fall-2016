@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: 'Week 5: Momentum and Impulse'
+type: CourseSection
 uid: c1168b62-a27d-cf9f-3fe2-550af1ed72f5
 ---
 

@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 1: Kinematics'
+parent_type: CourseSection
 parent_uid: 63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a
 title: 2.3 Worked Example - Acceleration from Position
+type: CourseSection
 uid: e2681bc3-7638-1c83-23b6-624545050a09
 ---
 

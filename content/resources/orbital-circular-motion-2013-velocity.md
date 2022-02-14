@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: PS.3.1 Worked Example - Orbital Circular Motion
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Orbital Circular Motion \u2013 Velocity"
 uid: af3c3bb4-c5eb-1863-177e-4639846425bc

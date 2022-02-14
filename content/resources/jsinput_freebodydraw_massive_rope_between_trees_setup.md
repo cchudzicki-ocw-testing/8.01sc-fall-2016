@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 13.1 Rope Hanging Between Trees
+parent_type: CourseSection
 resourcetype: Image
 title: jsinput_freebodydraw_massive_rope_between_trees_setup.svg
+type: OCWImage
 uid: 838633c7-0a5b-59cc-e23f-0909eaeb96d7
 ---

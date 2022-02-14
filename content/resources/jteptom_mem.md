@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-01sc-classical-mechanics-fall-2016/f2221f3212c10043f50d3c0352d1f1e2_JTePtoM_MeM.srt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: f2221f32-12c1-0043-f50d-3c0352d1f1e2
 ---

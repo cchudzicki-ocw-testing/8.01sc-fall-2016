@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 4: Drag Forces, Constraints and Continuous Systems'
+parent_type: CourseSection
 parent_uid: 919a2c50-6eb4-551d-940b-b0dbab2356f0
 title: 12.5 Worked Example - 2 Blocks and 2 Pulleys
+type: CourseSection
 uid: f748652c-b4c5-1b41-6e16-e3ed086b9a18
 ---
 

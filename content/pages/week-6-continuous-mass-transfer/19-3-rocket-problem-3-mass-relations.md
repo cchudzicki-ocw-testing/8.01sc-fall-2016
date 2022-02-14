@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 6: Continuous Mass Transfer'
+parent_type: CourseSection
 parent_uid: 28d93f13-f552-de72-9aab-415b7158be8e
 title: 19.3 Rocket Problem 3 - Mass Relations
+type: CourseSection
 uid: 78a84152-5b28-227b-c8d0-8716d5847434
 ---
 

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'PS.2.1 Worked Example: Sliding Block'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'PS.2.1 Worked Example: Sliding Block'
 uid: 7c680db7-f47d-fbb7-9827-14bcd1b39e90

@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'PS.2.1 Worked Example: Sliding Block'
+parent_type: CourseSection
 resourcetype: Image
 title: week2ps1.svg
+type: OCWImage
 uid: e7c3c8b9-4d99-5cd3-d77c-1628abb04621
 ---

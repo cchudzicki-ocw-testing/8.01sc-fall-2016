@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 8: Potential Energy and Energy Conservation'
+parent_type: CourseSection
 parent_uid: 13949981-43ef-cc49-3f7c-98265cfbd3ae
 title: 23.3 Potential Energy Reference State
+type: CourseSection
 uid: dd51d5b7-a688-3a8d-27a3-7de1a977163a
 ---
 

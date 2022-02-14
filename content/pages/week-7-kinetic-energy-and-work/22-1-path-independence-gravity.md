@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 7: Kinetic Energy and Work'
+parent_type: CourseSection
 parent_uid: 1099b766-7930-f7e5-1ccc-c80d63899c02
 title: 22.1 Path Independence - Gravity
+type: CourseSection
 uid: 994114a0-d054-2ba9-aeff-ab95b4cf1e57
 ---
 

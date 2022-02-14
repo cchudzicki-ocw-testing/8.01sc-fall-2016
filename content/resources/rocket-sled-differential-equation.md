@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: PS.6.1 Rocket Sled Problem
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Rocket Sled - Differential Equation
 uid: f79cac89-ce76-1d5d-2172-34dffc3eaf53

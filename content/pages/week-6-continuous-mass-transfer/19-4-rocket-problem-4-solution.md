@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 6: Continuous Mass Transfer'
+parent_type: CourseSection
 parent_uid: 28d93f13-f552-de72-9aab-415b7158be8e
 title: 19.4 Rocket Problem 4 - Solution
+type: CourseSection
 uid: e1a8df04-cee1-4060-755e-4242aee931be
 ---
 

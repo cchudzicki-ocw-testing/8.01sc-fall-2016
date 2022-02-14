@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: PS.1.1 Three Questions Before Starting
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: PS.1.1 Three Questions Before Starting
 uid: c840b824-1ec1-c522-337d-f676c32d1cbe

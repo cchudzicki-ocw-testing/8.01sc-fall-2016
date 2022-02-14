@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: 'Week 7: Kinetic Energy and Work'
+type: CourseSection
 uid: 1099b766-7930-f7e5-1ccc-c80d63899c02
 ---
 

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: PS.3.1 Worked Example - Orbital Circular Motion
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Orbital Circular Motion \u2013 Period"
 uid: aa25475c-905c-4092-6156-481af7c75ed8

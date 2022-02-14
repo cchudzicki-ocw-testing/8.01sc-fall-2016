@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 7: Kinetic Energy and Work'
+parent_type: CourseSection
 parent_uid: 1099b766-7930-f7e5-1ccc-c80d63899c02
 title: 22.2 Path Dependence - Friction
+type: CourseSection
 uid: fde3ea2c-88fa-1af4-93ba-ccdf828242b0
 ---
 

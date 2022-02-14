@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: PS.6.2 Snowplow Problem
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: PS.6.2 Snowplow Problem
 uid: 267cbedb-874f-a028-55cc-d677cdf8e7db

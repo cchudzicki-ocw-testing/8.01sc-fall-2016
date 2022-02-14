@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 31.4 Worked Example - Atwood Machine
+parent_type: CourseSection
 resourcetype: Image
 title: atwood_machine.svg
+type: OCWImage
 uid: 0310ea72-3271-6c47-b2f2-d1323a9d4a4e
 ---

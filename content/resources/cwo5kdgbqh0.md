@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-01sc-classical-mechanics-fall-2016/c3f018740b44bd71c1dbfb425af544fe_cwO5KdgBQh0.srt
 file_type: application/x-subrip
+learning_resource_types: []
 resourcetype: Other
 title: 3play caption file
+type: OCWFile
 uid: c3f01874-0b44-bd71-c1db-fb425af544fe
 ---

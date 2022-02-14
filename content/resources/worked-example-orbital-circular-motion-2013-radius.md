@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: PS.3.1 Worked Example - Orbital Circular Motion
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Worked Example - Orbital Circular Motion \u2013 Radius"
 uid: 3359e0d6-e13e-b434-c801-bee9f9f86476

@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: About the Team
+parent_type: CourseSection
 resourcetype: Image
 title: deepto_x110.jpg
+type: OCWImage
 uid: 9553fdac-9d6d-49ea-4c3e-c9eef62212a4
 ---

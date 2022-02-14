@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 12: Rotations and Translation - Rolling'
+parent_type: CourseSection
 parent_uid: fbf76190-d89e-eed2-930e-51f9ac3bf2a6
 title: Week 12 Introduction
+type: CourseSection
 uid: f5a711f7-cf08-1504-228a-556ad3f8eade
 ---
 

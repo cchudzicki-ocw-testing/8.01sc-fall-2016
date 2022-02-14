@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 2: Newton''s Laws'
+parent_type: CourseSection
 parent_uid: cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329
 title: 6.1 Contact Forces
+type: CourseSection
 uid: d1968a61-bae6-0ee9-89bc-bb1908425c38
 ---
 

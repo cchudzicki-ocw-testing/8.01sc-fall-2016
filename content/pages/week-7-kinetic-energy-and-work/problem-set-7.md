@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 7: Kinetic Energy and Work'
+parent_type: CourseSection
 parent_uid: 1099b766-7930-f7e5-1ccc-c80d63899c02
 title: Problem Set 7
+type: CourseSection
 uid: 198483cf-4835-3e5d-6a38-5333ab778504
 ---
 

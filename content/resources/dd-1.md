@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: DD.1.1 Friction at the Nanoscale
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: DD.1.1 Friction at the Nanoscale
 uid: 4e6fe535-3a14-5f09-2f92-ebaf1b4c4def

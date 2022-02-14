@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 8: Potential Energy and Energy Conservation'
+parent_type: CourseSection
 parent_uid: 13949981-43ef-cc49-3f7c-98265cfbd3ae
 title: 24.1 Mechanical Energy and Energy Conservation
+type: CourseSection
 uid: 62e5f5c1-a360-761e-cc39-c63c99de3ea7
 ---
 

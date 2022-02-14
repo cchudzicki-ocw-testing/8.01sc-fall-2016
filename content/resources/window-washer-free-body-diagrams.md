@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: PS.2.3 Window Washer Problem
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Window Washer Free Body Diagrams
 uid: 03511e0b-f3ae-55aa-c546-987125865ed7

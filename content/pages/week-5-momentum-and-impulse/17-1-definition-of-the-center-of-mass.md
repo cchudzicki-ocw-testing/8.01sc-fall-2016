@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 5: Momentum and Impulse'
+parent_type: CourseSection
 parent_uid: c1168b62-a27d-cf9f-3fe2-550af1ed72f5
 title: 17.1 Definition of the Center of Mass
+type: CourseSection
 uid: 656d7d88-3df9-7349-90b5-f657ebd9509a
 ---
 

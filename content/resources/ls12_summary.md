@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 37.4 Summary of Angular Momentum and Kinetic Energy
+parent_type: CourseSection
 resourcetype: Image
 title: ls12_summary.svg
+type: OCWImage
 uid: a2566fef-5a40-6990-630c-48f22203573b
 ---

@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 8: Potential Energy and Energy Conservation'
+parent_type: CourseSection
 parent_uid: 13949981-43ef-cc49-3f7c-98265cfbd3ae
 title: 23.5 Potential Energy of Gravitation
+type: CourseSection
 uid: 8642f9cc-d44f-d74d-777f-ed01b5adb01c
 ---
 

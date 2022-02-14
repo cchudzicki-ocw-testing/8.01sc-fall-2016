@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 12: Rotations and Translation - Rolling'
+parent_type: CourseSection
 parent_uid: fbf76190-d89e-eed2-930e-51f9ac3bf2a6
 title: DD.3.2 Gyroscopes 2 - Precessional Angular Velocity and Titled Gyroscopes
+type: CourseSection
 uid: 48a1992d-1589-8844-8e10-c62909b21e12
 ---
 

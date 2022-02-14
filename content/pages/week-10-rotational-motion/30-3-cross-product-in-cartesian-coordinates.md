@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 10: Rotational Motion'
+parent_type: CourseSection
 parent_uid: 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47
 title: 30.3 Cross Product in Cartesian Coordinates
+type: CourseSection
 uid: b640a0ea-ed70-f247-156d-394fb734286f
 ---
 

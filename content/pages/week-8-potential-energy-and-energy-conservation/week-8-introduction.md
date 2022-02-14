@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 8: Potential Energy and Energy Conservation'
+parent_type: CourseSection
 parent_uid: 13949981-43ef-cc49-3f7c-98265cfbd3ae
 title: Week 8 Introduction
+type: CourseSection
 uid: fcdd8dba-5c17-3c15-30e4-4947500174b8
 ---
 

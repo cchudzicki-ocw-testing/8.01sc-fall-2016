@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: PS.6.1 Rocket Sled Problem
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Rocket Sled - Solve for Initial Velocity
 uid: 743dc3c8-f229-f39a-9e3d-4f5f740f3ee0

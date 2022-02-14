@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: PS.6.1 Rocket Sled Problem
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Rocket Sled - Integrate the Rocket Equation
 uid: 75489538-97a7-9a4e-9af4-54f6d7ad020f

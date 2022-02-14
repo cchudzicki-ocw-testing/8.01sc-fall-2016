@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'PS.2.2 Worked Example: Pushing Stacked Blocks'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Worked Example - Stacked Blocks - Solve for the Maximum Force
 uid: 96220e96-d702-3641-80d2-bdf5cae5d365

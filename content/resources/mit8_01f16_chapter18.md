@@ -3,7 +3,12 @@ content_type: resource
 description: This resource contains information regarding classical mechanics.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-01sc-classical-mechanics-fall-2016/2c646c234bc710b8f78d207d83e747b7_MIT8_01F16_chapter18.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 8.01 Classical Mechanics Chapter 18
+type: OCWFile
 uid: 2c646c23-4bc7-10b8-f78d-207d83e747b7
 ---

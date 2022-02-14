@@ -4,7 +4,12 @@ description: This file contains information regarding classical mechanics proble
   set 9.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-01sc-classical-mechanics-fall-2016/aa4bd69ba9ac09a42a3d75892d2c46c6_MIT8_01F16_pset9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 8.01 Classical Mechanics Pset 9
+type: OCWFile
 uid: aa4bd69b-a9ac-09a4-2a3d-75892d2c46c6
 ---

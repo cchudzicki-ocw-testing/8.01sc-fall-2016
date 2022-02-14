@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: About the Team
+parent_type: CourseSection
 resourcetype: Image
 title: dourmashkin_peter.ac4ad29dba3e.jpg
+type: OCWImage
 uid: 0cff5830-59d1-526e-e814-c865a9d35695
 ---

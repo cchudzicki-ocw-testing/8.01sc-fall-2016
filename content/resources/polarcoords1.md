@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: "10.1 Circular Motion \u2013 Acceleration"
+parent_type: CourseSection
 resourcetype: Image
 title: polarCoords1.svg
+type: OCWImage
 uid: 41c189b5-309d-6b11-cfa7-4969017977e6
 ---

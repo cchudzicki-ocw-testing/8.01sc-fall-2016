@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 4: Drag Forces, Constraints and Continuous Systems'
+parent_type: CourseSection
 parent_uid: 919a2c50-6eb4-551d-940b-b0dbab2356f0
 title: 13.6 Summary of Differential Analysis
+type: CourseSection
 uid: d993643f-df0a-e364-c29a-d9cf58089992
 ---
 

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: PS.7.1 Worked Example - Collision and Sliding on a Rough Surface
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: PS.7.1 Worked Example - Collision and Sliding on a Rough Surface
 uid: b3636e25-f8a6-1312-3316-8d0a184f1c31

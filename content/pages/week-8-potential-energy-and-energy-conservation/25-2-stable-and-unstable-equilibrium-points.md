@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Week 8: Potential Energy and Energy Conservation'
+parent_type: CourseSection
 parent_uid: 13949981-43ef-cc49-3f7c-98265cfbd3ae
 title: 25.2 Stable and Unstable Equilibrium Points
+type: CourseSection
 uid: 3496c931-8dea-8830-53e1-af54069ddd37
 ---
 

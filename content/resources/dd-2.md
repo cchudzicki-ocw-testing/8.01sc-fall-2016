@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: DD.2.1 Position in the CM Frame
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: DD.2.1 Position in the CM Frame
 uid: 277d00a1-dae5-cf4f-d5f6-48ebe9ff691a
