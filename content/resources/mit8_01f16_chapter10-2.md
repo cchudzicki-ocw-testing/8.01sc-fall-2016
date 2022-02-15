@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 8.01 Classical Mechanics Chapter 10.2
-type: OCWFile
 uid: b2b17d85-4037-7add-2286-33b463cc3b87
 ---

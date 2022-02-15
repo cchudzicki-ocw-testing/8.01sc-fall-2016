@@ -5,7 +5,6 @@ parent_title: Syllabus
 parent_type: CourseSection
 parent_uid: 8488bde4-6909-b726-a411-abeee039ef1a
 title: About the Team
-type: CourseSection
 uid: 63b200b4-6b93-d532-b387-9a3d37067265
 ---
 

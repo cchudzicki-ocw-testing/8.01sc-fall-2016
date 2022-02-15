@@ -5,7 +5,6 @@ parent_title: 'Week 1: Kinematics'
 parent_type: CourseSection
 parent_uid: 63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a
 title: 3.1 Coordinate System and Position Vector in 2D
-type: CourseSection
 uid: 355b5de2-6116-b582-7ce8-833ba051ad9f
 ---
 

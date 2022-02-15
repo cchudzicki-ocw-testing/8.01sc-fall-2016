@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: 'Week 3: Circular Motion'
-type: CourseSection
 uid: 3c7d357c-bb95-e729-679b-539d23714ede
 ---
 

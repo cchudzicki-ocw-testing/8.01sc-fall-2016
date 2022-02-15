@@ -5,7 +5,6 @@ parent_title: 'Week 1: Kinematics'
 parent_type: CourseSection
 parent_uid: 63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a
 title: 2.1 Introduction to Acceleration
-type: CourseSection
 uid: 044c013e-e454-a053-8e54-74d995c51062
 ---
 

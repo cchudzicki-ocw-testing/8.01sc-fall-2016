@@ -5,7 +5,6 @@ parent_title: 'Week 3: Circular Motion'
 parent_type: CourseSection
 parent_uid: 3c7d357c-bb95-e729-679b-539d23714ede
 title: 9.2 Uniform Circular Motion - Direction of the Acceleration
-type: CourseSection
 uid: 99b2aae9-1efd-1f4b-85d0-04692793deb9
 ---
 

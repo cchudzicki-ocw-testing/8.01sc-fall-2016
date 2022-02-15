@@ -5,7 +5,6 @@ parent_title: 'Week 11: Angular Momentum'
 parent_type: CourseSection
 parent_uid: d36579bd-7dfc-b71f-7617-8b4b8d45c312
 title: '34.4 Demo: Bicycle Wheel'
-type: CourseSection
 uid: 1453ead1-4cf5-1b67-9b6f-bbde49dd2fe7
 ---
 

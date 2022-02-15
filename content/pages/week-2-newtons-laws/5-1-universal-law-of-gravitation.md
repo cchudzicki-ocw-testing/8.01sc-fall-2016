@@ -5,7 +5,6 @@ parent_title: 'Week 2: Newton''s Laws'
 parent_type: CourseSection
 parent_uid: cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329
 title: 5.1 Universal Law of Gravitation
-type: CourseSection
 uid: 5a03ea05-c949-6dde-2e74-b2e89df96295
 ---
 

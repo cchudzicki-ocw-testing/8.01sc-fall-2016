@@ -12,6 +12,5 @@ parent_title: PS.1.2 Shooting the Apple
 parent_type: CourseSection
 resourcetype: Image
 title: week1ps1_3.svg
-type: OCWImage
 uid: 56f8dd96-7450-729c-091f-83315a6e971b
 ---

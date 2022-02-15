@@ -12,6 +12,5 @@ parent_title: About the Team
 parent_type: CourseSection
 resourcetype: Image
 title: analiabarrantes_110x110.jpg
-type: OCWImage
 uid: dca70e05-6832-9daf-cad9-675b02d5e14b
 ---

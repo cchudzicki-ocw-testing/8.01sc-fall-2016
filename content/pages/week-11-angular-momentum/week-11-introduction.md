@@ -5,7 +5,6 @@ parent_title: 'Week 11: Angular Momentum'
 parent_type: CourseSection
 parent_uid: d36579bd-7dfc-b71f-7617-8b4b8d45c312
 title: Week 11 Introduction
-type: CourseSection
 uid: 5e792911-b6e1-ef7b-9df6-e601cddc19bb
 ---
 

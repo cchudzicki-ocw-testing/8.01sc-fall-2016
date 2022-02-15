@@ -12,6 +12,5 @@ parent_title: About the Team
 parent_type: CourseSection
 resourcetype: Image
 title: michelletomasik_110x110.jpg
-type: OCWImage
 uid: d01856a9-6347-5c15-124a-3ccf5d399a4a
 ---

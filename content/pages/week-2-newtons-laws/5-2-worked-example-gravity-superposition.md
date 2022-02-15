@@ -5,7 +5,6 @@ parent_title: 'Week 2: Newton''s Laws'
 parent_type: CourseSection
 parent_uid: cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329
 title: '5.2 Worked Example: Gravity Superposition'
-type: CourseSection
 uid: f38128e4-b503-ea04-9e1f-d330c59669a7
 ---
 

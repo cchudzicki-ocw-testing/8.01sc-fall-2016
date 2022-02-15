@@ -5,7 +5,6 @@ parent_title: 'Review: Vectors'
 parent_type: CourseSection
 parent_uid: f8da8d9b-f6a4-78e6-808b-aa7e6aa62306
 title: 0.2 Vector Operators
-type: CourseSection
 uid: fca937cf-567f-b9b5-c060-e97a4d628dd4
 ---
 

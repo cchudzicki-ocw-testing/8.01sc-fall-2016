@@ -5,7 +5,6 @@ parent_title: 'Week 2: Newton''s Laws'
 parent_type: CourseSection
 parent_uid: cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329
 title: 7.1 Pushing Pulling and Tension
-type: CourseSection
 uid: e5a52811-e169-8a0e-86ed-89dc040ff7ce
 ---
 

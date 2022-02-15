@@ -12,6 +12,5 @@ parent_title: 12.1 Pulley Problems - Part I, Set up the Equations
 parent_type: CourseSection
 resourcetype: Image
 title: ropes_and_pulley_intro.svg
-type: OCWImage
 uid: 5c051187-3bdd-ef77-db50-1d8c84e65623
 ---

@@ -5,7 +5,6 @@ parent_title: 'Week 10: Rotational Motion'
 parent_type: CourseSection
 parent_uid: 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47
 title: 31.6 Non-Slip Condition
-type: CourseSection
 uid: 9426040b-a330-30d7-59a1-1326ef067c79
 ---
 

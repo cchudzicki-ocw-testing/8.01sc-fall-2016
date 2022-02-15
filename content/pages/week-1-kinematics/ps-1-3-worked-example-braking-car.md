@@ -5,7 +5,6 @@ parent_title: 'Week 1: Kinematics'
 parent_type: CourseSection
 parent_uid: 63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a
 title: 'PS.1.3 Worked Example: Braking Car'
-type: CourseSection
 uid: c00c7194-c0ce-a091-fd9b-c5f3ba49fe85
 ---
 

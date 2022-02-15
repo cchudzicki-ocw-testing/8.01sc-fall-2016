@@ -5,7 +5,6 @@ parent_title: 'Week 10: Rotational Motion'
 parent_type: CourseSection
 parent_uid: 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47
 title: 29.1 Kinetic Energy of Rotation
-type: CourseSection
 uid: b83ad997-5533-29c6-0233-437ea49e895d
 ---
 

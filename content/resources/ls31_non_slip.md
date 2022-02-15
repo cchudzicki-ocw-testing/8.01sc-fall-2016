@@ -12,6 +12,5 @@ parent_title: 31.6 Non-Slip Condition
 parent_type: CourseSection
 resourcetype: Image
 title: ls31_non_slip.svg
-type: OCWImage
 uid: 415f1853-e6e3-96de-ca82-8c013fe19829
 ---

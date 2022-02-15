@@ -5,7 +5,6 @@ parent_title: 'Week 10: Rotational Motion'
 parent_type: CourseSection
 parent_uid: 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47
 title: 28.2 Introduction to Translation and Rotation
-type: CourseSection
 uid: cafeab96-1cc4-0b56-1181-e1020195ed8c
 ---
 

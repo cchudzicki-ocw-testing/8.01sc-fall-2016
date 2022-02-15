@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 8.01 Classical Mechanics Pset 6
-type: OCWFile
 uid: 44b46fb9-ae75-7967-5988-4a9a7f7bd167
 ---

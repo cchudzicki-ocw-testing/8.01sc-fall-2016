@@ -5,7 +5,6 @@ parent_title: 'Week 3: Circular Motion'
 parent_type: CourseSection
 parent_uid: 3c7d357c-bb95-e729-679b-539d23714ede
 title: PS.3.1 Worked Example - Orbital Circular Motion
-type: CourseSection
 uid: 938ca53b-e5be-db20-7d92-fe94493d1b80
 ---
 

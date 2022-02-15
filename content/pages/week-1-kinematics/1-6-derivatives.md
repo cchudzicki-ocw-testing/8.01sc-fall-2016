@@ -5,7 +5,6 @@ parent_title: 'Week 1: Kinematics'
 parent_type: CourseSection
 parent_uid: 63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a
 title: 1.6 Derivatives
-type: CourseSection
 uid: e2ff4dd6-34aa-9891-22c6-cf27dbab579a
 ---
 

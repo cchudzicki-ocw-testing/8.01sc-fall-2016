@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: 'Week 4: Drag Forces, Constraints and Continuous Systems'
-type: CourseSection
 uid: 919a2c50-6eb4-551d-940b-b0dbab2356f0
 ---
 

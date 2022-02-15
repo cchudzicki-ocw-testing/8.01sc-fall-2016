@@ -5,7 +5,6 @@ parent_title: 'Week 9: Collision Theory'
 parent_type: CourseSection
 parent_uid: bc33ee80-c8fd-90e4-dfda-7092ddd24879
 title: 27.5 Worked Example - Gravitational Slingshot
-type: CourseSection
 uid: 5f59027b-133d-d077-d093-570d40c67694
 ---
 

@@ -5,7 +5,6 @@ parent_title: 'Week 10: Rotational Motion'
 parent_type: CourseSection
 parent_uid: 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47
 title: 29.2 Moment of Inertia of a Rod
-type: CourseSection
 uid: c32ec05e-c684-b90a-e0a5-086f0167dd2c
 ---
 

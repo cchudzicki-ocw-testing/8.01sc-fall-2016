@@ -5,7 +5,6 @@ parent_title: 'Week 5: Momentum and Impulse'
 parent_type: CourseSection
 parent_uid: c1168b62-a27d-cf9f-3fe2-550af1ed72f5
 title: 17.2 Worked Example - Center of Mass of 3 Objects
-type: CourseSection
 uid: f8bea622-bf57-28ae-33fe-c461b885f557
 ---
 

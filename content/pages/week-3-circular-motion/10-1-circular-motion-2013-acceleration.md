@@ -5,7 +5,6 @@ parent_title: 'Week 3: Circular Motion'
 parent_type: CourseSection
 parent_uid: 3c7d357c-bb95-e729-679b-539d23714ede
 title: "10.1 Circular Motion \u2013 Acceleration"
-type: CourseSection
 uid: fc4bb7fe-8852-f18e-d0a7-cc1c4ea5e402
 ---
 

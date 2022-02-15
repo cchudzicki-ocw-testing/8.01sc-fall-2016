@@ -5,7 +5,6 @@ parent_title: 'Week 4: Drag Forces, Constraints and Continuous Systems'
 parent_type: CourseSection
 parent_uid: 919a2c50-6eb4-551d-940b-b0dbab2356f0
 title: 14.1 Intro to Resistive Forces
-type: CourseSection
 uid: b0dfeda3-e8e0-1b02-c85d-7aaa620c1e61
 ---
 

@@ -5,7 +5,6 @@ parent_title: 'Week 10: Rotational Motion'
 parent_type: CourseSection
 parent_uid: 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47
 title: Problem Set 10
-type: CourseSection
 uid: 4cc15f43-3fd8-2d72-4dc9-a100b00d26e6
 ---
 

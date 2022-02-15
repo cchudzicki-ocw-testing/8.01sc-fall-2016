@@ -5,7 +5,6 @@ parent_title: 'Week 1: Kinematics'
 parent_type: CourseSection
 parent_uid: 63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a
 title: 'PS.1.5 Worked Example: Pedestrian and Bike at Intersection'
-type: CourseSection
 uid: 78b6dfdb-1434-37ce-0d07-1e7e7521a24e
 ---
 

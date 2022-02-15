@@ -12,6 +12,5 @@ parent_title: About the Team
 parent_type: CourseSection
 resourcetype: Image
 title: rayyan_saif_about.jpg
-type: OCWImage
 uid: f1cc92e0-9027-b13b-dda9-67f59006f03f
 ---

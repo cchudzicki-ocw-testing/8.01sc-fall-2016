@@ -5,7 +5,6 @@ parent_title: 'Week 9: Collision Theory'
 parent_type: CourseSection
 parent_uid: bc33ee80-c8fd-90e4-dfda-7092ddd24879
 title: 26.3 Totally Inelastic Collisions
-type: CourseSection
 uid: 5b9547e6-b555-4ebd-94f4-c07a3a9175ce
 ---
 

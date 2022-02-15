@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: 'Week 2: Newton''s Laws'
-type: CourseSection
 uid: cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329
 ---
 

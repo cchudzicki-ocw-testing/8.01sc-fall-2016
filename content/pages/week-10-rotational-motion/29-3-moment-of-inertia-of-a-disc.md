@@ -5,7 +5,6 @@ parent_title: 'Week 10: Rotational Motion'
 parent_type: CourseSection
 parent_uid: 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47
 title: 29.3 Moment of Inertia of a Disc
-type: CourseSection
 uid: 86604b13-8151-7098-ada7-e2762b7a14fe
 ---
 

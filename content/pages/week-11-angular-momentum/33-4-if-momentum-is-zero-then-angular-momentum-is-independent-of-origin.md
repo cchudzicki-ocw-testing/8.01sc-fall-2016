@@ -5,7 +5,6 @@ parent_title: 'Week 11: Angular Momentum'
 parent_type: CourseSection
 parent_uid: d36579bd-7dfc-b71f-7617-8b4b8d45c312
 title: 33.4 If Momentum is Zero then Angular Momentum is Independent of Origin
-type: CourseSection
 uid: 0b2abad3-b372-2a17-6549-706afcee6510
 ---
 

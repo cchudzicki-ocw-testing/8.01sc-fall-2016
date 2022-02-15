@@ -12,6 +12,5 @@ parent_title: 17.4 Center of Mass of a System of Extended Objects
 parent_type: CourseSection
 resourcetype: Image
 title: ls05_L17_html.svg
-type: OCWImage
 uid: 7e94a6f2-2bc8-528b-109e-e5a44bf7d91b
 ---

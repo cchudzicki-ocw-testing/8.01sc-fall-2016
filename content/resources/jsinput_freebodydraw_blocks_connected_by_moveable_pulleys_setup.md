@@ -12,6 +12,5 @@ parent_title: 12.5 Worked Example - 2 Blocks and 2 Pulleys
 parent_type: CourseSection
 resourcetype: Image
 title: jsinput_freebodydraw_blocks_connected_by_moveable_pulleys_setup.svg
-type: OCWImage
 uid: 79493344-7d4b-58e6-d2e6-5df140bc0204
 ---

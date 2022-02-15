@@ -5,7 +5,6 @@ parent_title: 'Week 1: Kinematics'
 parent_type: CourseSection
 parent_uid: 63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a
 title: 1.5 Instantaneous Velocity in 1D
-type: CourseSection
 uid: 595db4b7-b909-9dcb-d43d-98e6d638ebc0
 ---
 

@@ -5,7 +5,6 @@ parent_title: 'Week 6: Continuous Mass Transfer'
 parent_type: CourseSection
 parent_uid: 28d93f13-f552-de72-9aab-415b7158be8e
 title: 18.4 Solve for Velocity in the Moving Frame
-type: CourseSection
 uid: 9fb8e827-040a-6b8b-efe9-5b0076e804ce
 ---
 

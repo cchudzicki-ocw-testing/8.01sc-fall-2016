@@ -5,7 +5,6 @@ parent_title: 'Week 2: Newton''s Laws'
 parent_type: CourseSection
 parent_uid: cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329
 title: 'PS.2.2 Worked Example: Pushing Stacked Blocks'
-type: CourseSection
 uid: 00aef642-3d37-f1e0-8db3-ced31e4003c0
 ---
 

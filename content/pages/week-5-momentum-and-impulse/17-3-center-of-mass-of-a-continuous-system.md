@@ -5,7 +5,6 @@ parent_title: 'Week 5: Momentum and Impulse'
 parent_type: CourseSection
 parent_uid: c1168b62-a27d-cf9f-3fe2-550af1ed72f5
 title: 17.3 Center of Mass of a Continuous System
-type: CourseSection
 uid: a497a700-4a1c-b6e7-74fc-a8b3fe964984
 ---
 

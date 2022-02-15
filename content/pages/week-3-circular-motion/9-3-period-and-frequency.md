@@ -5,7 +5,6 @@ parent_title: 'Week 3: Circular Motion'
 parent_type: CourseSection
 parent_uid: 3c7d357c-bb95-e729-679b-539d23714ede
 title: 9.3 Period and Frequency
-type: CourseSection
 uid: e414f837-923e-dc77-a17f-689283bb4e07
 ---
 

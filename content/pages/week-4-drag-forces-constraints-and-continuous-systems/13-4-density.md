@@ -5,7 +5,6 @@ parent_title: 'Week 4: Drag Forces, Constraints and Continuous Systems'
 parent_type: CourseSection
 parent_uid: 919a2c50-6eb4-551d-940b-b0dbab2356f0
 title: 13.4 Density
-type: CourseSection
 uid: 7fe72802-4b91-b11c-98db-072a2282459a
 ---
 

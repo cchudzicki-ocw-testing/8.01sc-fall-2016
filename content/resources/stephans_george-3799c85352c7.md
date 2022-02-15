@@ -12,6 +12,5 @@ parent_title: About the Team
 parent_type: CourseSection
 resourcetype: Image
 title: stephans_george.3799c85352c7.jpg
-type: OCWImage
 uid: ae1b1b3a-d06a-6ac3-b234-2627de6d577f
 ---
