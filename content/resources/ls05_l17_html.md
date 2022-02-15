@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 17.4 Center of Mass of a System of Extended Objects
 parent_type: CourseSection
 resourcetype: Image

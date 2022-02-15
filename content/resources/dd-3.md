@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: DD.3.1 Gyroscopes 1 - Free Body Diagrams, Torque, and Rotating Vectors

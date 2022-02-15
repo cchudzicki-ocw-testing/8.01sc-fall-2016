@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: PS.1.1 Three Questions Before Starting
 parent_type: CourseSection
 parent_uid: ee2f73c8-bddd-e169-e39c-a455f12469aa

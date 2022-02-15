@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-01sc-classical-mechanics-fall-2016/bec126e6571dd0e2140215548dea4a59_CfTLS6YYPms.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: bec126e6-571d-d0e2-1402-15548dea4a59

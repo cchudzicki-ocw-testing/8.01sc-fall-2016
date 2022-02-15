@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 13.1 Rope Hanging Between Trees
 parent_type: CourseSection
 resourcetype: Image

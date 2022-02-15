@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'PS.1.3 Worked Example: Braking Car'
 parent_type: CourseSection
 resourcetype: Image

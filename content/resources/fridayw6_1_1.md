@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: PS.7.1 Worked Example - Collision and Sliding on a Rough Surface
 parent_type: CourseSection
 resourcetype: Image

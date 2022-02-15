@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
 parent_type: CourseSection
 parent_uid: 8488bde4-6909-b726-a411-abeee039ef1a
