@@ -9,8 +9,8 @@ title: 26.2 Kinetic Energy in Collisions
 uid: 2ebec2a9-0ad8-27ea-35ad-a76b78bd67bd
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-9-collision-theory/26.1-momentum-in-collisions) | [Next]({{< baseurl >}}/pages/week-9-collision-theory/26.3-totally-inelastic-collisions) »
+« {{< resource_link 18f46ffb-be76-a46e-9780-65aa344ceef1 "Previous" >}} | {{< resource_link 5b9547e6-b555-4ebd-94f4-c07a3a9175ce "Next" >}} »
 
 {{< resource ad1c0861-be36-61b8-a1b6-47584247fb7d >}}
 
-« [Previous]({{< baseurl >}}/pages/week-9-collision-theory/26.1-momentum-in-collisions) | [Next]({{< baseurl >}}/pages/week-9-collision-theory/26.3-totally-inelastic-collisions) »
+« {{< resource_link 18f46ffb-be76-a46e-9780-65aa344ceef1 "Previous" >}} | {{< resource_link 5b9547e6-b555-4ebd-94f4-c07a3a9175ce "Next" >}} »

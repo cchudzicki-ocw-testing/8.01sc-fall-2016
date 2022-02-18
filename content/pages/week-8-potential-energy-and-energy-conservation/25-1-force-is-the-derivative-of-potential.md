@@ -9,8 +9,8 @@ title: 25.1 Force is the Derivative of Potential
 uid: 7764cf48-40ca-6295-a596-52406638f492
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-8-potential-energy-and-energy-conservation/24.4-newtons-2nd-law-and-energy-conservation) | [Next]({{< baseurl >}}/pages/week-8-potential-energy-and-energy-conservation/25.2-stable-and-unstable-equilibrium-points) »
+« {{< resource_link da2be0d8-474e-82d8-3048-ae3e1a948f86 "Previous" >}} | {{< resource_link 3496c931-8dea-8830-53e1-af54069ddd37 "Next" >}} »
 
 {{< resource 6da049e4-56a7-05c5-a249-8419d6393389 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-8-potential-energy-and-energy-conservation/24.4-newtons-2nd-law-and-energy-conservation) | [Next]({{< baseurl >}}/pages/week-8-potential-energy-and-energy-conservation/25.2-stable-and-unstable-equilibrium-points) »
+« {{< resource_link da2be0d8-474e-82d8-3048-ae3e1a948f86 "Previous" >}} | {{< resource_link 3496c931-8dea-8830-53e1-af54069ddd37 "Next" >}} »

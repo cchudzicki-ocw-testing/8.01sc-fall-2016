@@ -9,8 +9,8 @@ title: DD.3.3 Gyroscopes 3 - Nutation and Total Angular Momentum
 uid: 0e404fc3-2376-af37-0fd1-ea9139691b69
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes) | [Next]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/problem-set-12) »
+« {{< resource_link 48a1992d-1589-8844-8e10-c62909b21e12 "Previous" >}} | {{< resource_link 7a5814a4-20a1-f456-5d0d-f5ef0b30c31d "Next" >}} »
 
 {{< resource a3a3c3d0-f93a-4c71-7eb0-730724334e15 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes) | [Next]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/problem-set-12) »
+« {{< resource_link 48a1992d-1589-8844-8e10-c62909b21e12 "Previous" >}} | {{< resource_link 7a5814a4-20a1-f456-5d0d-f5ef0b30c31d "Next" >}} »

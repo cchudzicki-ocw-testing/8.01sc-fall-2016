@@ -9,7 +9,7 @@ title: Problem Set 5
 uid: ba6a17ec-2a64-e576-34b0-0dd9fd6b8ab2
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-5-momentum-and-impulse/17.7-reduction-of-a-system-to-a-point-particle) | [Next]({{< baseurl >}}/pages/week-6-continuous-mass-transfer) »
+« {{< resource_link f28687ea-d20d-420d-06a3-9e668b5b95a4 "Previous" >}} | {{< resource_link 28d93f13-f552-de72-9aab-415b7158be8e "Next" >}} »
 
 Problem Set 5 contains the following problems:
 
@@ -19,6 +19,6 @@ Problem Set 5 contains the following problems:
 4.  Center of Mass of a Rod
 5.  Two Particles Colliding
 
-*   [Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset5)
+*   {{< resource_link ebe813c4-c1e0-a146-9333-80112612a58f "Problem Set 5 (PDF)" >}}
 
-« [Previous]({{< baseurl >}}/pages/week-5-momentum-and-impulse/17.7-reduction-of-a-system-to-a-point-particle) | [Next]({{< baseurl >}}/pages/week-6-continuous-mass-transfer) »
+« {{< resource_link f28687ea-d20d-420d-06a3-9e668b5b95a4 "Previous" >}} | {{< resource_link 28d93f13-f552-de72-9aab-415b7158be8e "Next" >}} »

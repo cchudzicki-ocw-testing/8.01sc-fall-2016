@@ -9,8 +9,8 @@ title: 27.2 Relative Velocity in 1D
 uid: 7e35cb4f-1cdd-b7b7-0d4d-9da7f855b9b9
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-9-collision-theory/27.1-worked-example-elastic-1d-collision) | [Next]({{< baseurl >}}/pages/week-9-collision-theory/27.3-kinetic-energy-and-momentum-equation) »
+« {{< resource_link 81ee9da3-5071-cf42-2165-0926ad929f14 "Previous" >}} | {{< resource_link e52887f9-1b56-8bf4-7680-7eb93ca4e396 "Next" >}} »
 
 {{< resource 4fbc216f-88a2-9ed6-d744-3ef4ebf735e4 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-9-collision-theory/27.1-worked-example-elastic-1d-collision) | [Next]({{< baseurl >}}/pages/week-9-collision-theory/27.3-kinetic-energy-and-momentum-equation) »
+« {{< resource_link 81ee9da3-5071-cf42-2165-0926ad929f14 "Previous" >}} | {{< resource_link e52887f9-1b56-8bf4-7680-7eb93ca4e396 "Next" >}} »

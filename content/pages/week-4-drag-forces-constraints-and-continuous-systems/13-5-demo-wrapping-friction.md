@@ -9,8 +9,8 @@ title: '13.5 Demo: Wrapping Friction'
 uid: 925902fb-58d9-13d4-f7cc-63f17c643740
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems/13.4-density) | [Next]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems/13.6-summary-of-differential-analysis) »
+« {{< resource_link 7fe72802-4b91-b11c-98db-072a2282459a "Previous" >}} | {{< resource_link d993643f-df0a-e364-c29a-d9cf58089992 "Next" >}} »
 
 {{< resource 4064191f-e481-e40c-99b3-b5e23ba3f22c >}}
 
-« [Previous]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems/13.4-density) | [Next]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems/13.6-summary-of-differential-analysis) »
+« {{< resource_link 7fe72802-4b91-b11c-98db-072a2282459a "Previous" >}} | {{< resource_link d993643f-df0a-e364-c29a-d9cf58089992 "Next" >}} »

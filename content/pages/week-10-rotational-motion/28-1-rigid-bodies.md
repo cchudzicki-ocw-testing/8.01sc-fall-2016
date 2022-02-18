@@ -9,8 +9,8 @@ title: 28.1 Rigid Bodies
 uid: 625a15e4-5ff0-83db-bb2e-81a6583103c5
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-10-rotational-motion/week-10-introduction) | [Next]({{< baseurl >}}/pages/week-10-rotational-motion/28.2-introduction-to-translation-and-rotation) »
+« {{< resource_link 24520484-0767-1631-2e08-ec037e0da137 "Previous" >}} | {{< resource_link cafeab96-1cc4-0b56-1181-e1020195ed8c "Next" >}} »
 
 {{< resource 3a49c20b-fa11-7a8e-b3eb-3810089b1c03 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-10-rotational-motion/week-10-introduction) | [Next]({{< baseurl >}}/pages/week-10-rotational-motion/28.2-introduction-to-translation-and-rotation) »
+« {{< resource_link 24520484-0767-1631-2e08-ec037e0da137 "Previous" >}} | {{< resource_link cafeab96-1cc4-0b56-1181-e1020195ed8c "Next" >}} »

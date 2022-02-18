@@ -9,8 +9,8 @@ title: 27.6 2D Collisions
 uid: 65891973-9096-81b1-bf9e-c10147d08d21
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-9-collision-theory/27.5-worked-example-gravitational-slingshot) | [Next]({{< baseurl >}}/pages/week-9-collision-theory/dd.2.1-position-in-the-cm-frame) »
+« {{< resource_link 5f59027b-133d-d077-d093-570d40c67694 "Previous" >}} | {{< resource_link 07d691dc-35df-da5c-b795-db9825432f91 "Next" >}} »
 
 {{< resource 3978a042-523b-550d-c2bd-87ab13354efe >}}
 
-« [Previous]({{< baseurl >}}/pages/week-9-collision-theory/27.5-worked-example-gravitational-slingshot) | [Next]({{< baseurl >}}/pages/week-9-collision-theory/dd.2.1-position-in-the-cm-frame) »
+« {{< resource_link 5f59027b-133d-d077-d093-570d40c67694 "Previous" >}} | {{< resource_link 07d691dc-35df-da5c-b795-db9825432f91 "Next" >}} »

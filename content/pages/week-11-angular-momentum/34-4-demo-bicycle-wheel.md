@@ -9,8 +9,8 @@ title: '34.4 Demo: Bicycle Wheel'
 uid: 1453ead1-4cf5-1b67-9b6f-bbde49dd2fe7
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-11-angular-momentum/34.3-angular-impulse) | [Next]({{< baseurl >}}/pages/week-11-angular-momentum/34.5-worked-example-particle-hits-pivoted-ring) »
+« {{< resource_link c05d690a-2d84-af93-31cb-a14e62bbc9b6 "Previous" >}} | {{< resource_link fd5621ac-f9af-8265-912d-22db4bdfad0a "Next" >}} »
 
 {{< resource 88c8d5be-2acc-7ea4-e79b-fb569a05d58d >}}
 
-« [Previous]({{< baseurl >}}/pages/week-11-angular-momentum/34.3-angular-impulse) | [Next]({{< baseurl >}}/pages/week-11-angular-momentum/34.5-worked-example-particle-hits-pivoted-ring) »
+« {{< resource_link c05d690a-2d84-af93-31cb-a14e62bbc9b6 "Previous" >}} | {{< resource_link fd5621ac-f9af-8265-912d-22db4bdfad0a "Next" >}} »

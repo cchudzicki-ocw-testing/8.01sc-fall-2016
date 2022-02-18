@@ -9,8 +9,8 @@ title: 31.5 Massive Pulley Problems
 uid: a8b95d55-7ec9-7701-38ba-9fcdf3e90149
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-10-rotational-motion/31.4-worked-example-atwood-machine) | [Next]({{< baseurl >}}/pages/week-10-rotational-motion/31.6-non-slip-condition) »
+« {{< resource_link 770f89d7-73c1-236d-f48f-673fd378e5a4 "Previous" >}} | {{< resource_link 9426040b-a330-30d7-59a1-1326ef067c79 "Next" >}} »
 
 {{< resource fbc6b4cb-7ce9-e650-4213-8b1c4e14a1f7 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-10-rotational-motion/31.4-worked-example-atwood-machine) | [Next]({{< baseurl >}}/pages/week-10-rotational-motion/31.6-non-slip-condition) »
+« {{< resource_link 770f89d7-73c1-236d-f48f-673fd378e5a4 "Previous" >}} | {{< resource_link 9426040b-a330-30d7-59a1-1326ef067c79 "Next" >}} »

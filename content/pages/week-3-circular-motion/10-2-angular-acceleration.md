@@ -9,8 +9,8 @@ title: 10.2 Angular Acceleration
 uid: 08e40d5c-6ee9-89ee-a653-bc06afe5862d
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-3-circular-motion/10.1-circular-motion-2013-acceleration) | [Next]({{< baseurl >}}/pages/week-3-circular-motion/10.3-worked-example-angular-position-from-angular-acceleration) »
+« {{< resource_link fc4bb7fe-8852-f18e-d0a7-cc1c4ea5e402 "Previous" >}} | {{< resource_link 8992e0cf-af5f-2ab2-d813-cd1facefbf81 "Next" >}} »
 
 {{< resource ee3d2e05-d397-5655-eb0d-2f3c7ad456f0 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-3-circular-motion/10.1-circular-motion-2013-acceleration) | [Next]({{< baseurl >}}/pages/week-3-circular-motion/10.3-worked-example-angular-position-from-angular-acceleration) »
+« {{< resource_link fc4bb7fe-8852-f18e-d0a7-cc1c4ea5e402 "Previous" >}} | {{< resource_link 8992e0cf-af5f-2ab2-d813-cd1facefbf81 "Next" >}} »

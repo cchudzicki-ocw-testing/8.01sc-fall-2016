@@ -9,8 +9,8 @@ title: 17.3 Center of Mass of a Continuous System
 uid: a497a700-4a1c-b6e7-74fc-a8b3fe964984
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-5-momentum-and-impulse/17.2-worked-example-center-of-mass-of-3-objects) | [Next]({{< baseurl >}}/pages/week-5-momentum-and-impulse/17.4-center-of-mass-of-a-system-of-extended-objects) »
+« {{< resource_link f8bea622-bf57-28ae-33fe-c461b885f557 "Previous" >}} | {{< resource_link e13c11c8-6d3e-4192-0377-32a634d2d58a "Next" >}} »
 
 {{< resource 25354453-84bb-20cc-66ee-b42bf5ba9f18 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-5-momentum-and-impulse/17.2-worked-example-center-of-mass-of-3-objects) | [Next]({{< baseurl >}}/pages/week-5-momentum-and-impulse/17.4-center-of-mass-of-a-system-of-extended-objects) »
+« {{< resource_link f8bea622-bf57-28ae-33fe-c461b885f557 "Previous" >}} | {{< resource_link e13c11c8-6d3e-4192-0377-32a634d2d58a "Next" >}} »

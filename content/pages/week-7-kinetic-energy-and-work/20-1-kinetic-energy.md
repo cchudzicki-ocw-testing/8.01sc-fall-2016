@@ -9,8 +9,8 @@ title: 20.1 Kinetic Energy
 uid: 134ce034-c409-79f8-36a7-214e6d16747e
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-7-kinetic-energy-and-work/week-7-introduction) | [Next]({{< baseurl >}}/pages/week-7-kinetic-energy-and-work/20.2-work-by-a-constant-force) »
+« {{< resource_link 1e15ff1e-ed2c-3307-da56-70f4a7de584b "Previous" >}} | {{< resource_link 577b7e46-3bc8-a343-3dbe-46a3f2b13a74 "Next" >}} »
 
 {{< resource 51741564-6f86-aff1-61d1-7ed214d7f931 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-7-kinetic-energy-and-work/week-7-introduction) | [Next]({{< baseurl >}}/pages/week-7-kinetic-energy-and-work/20.2-work-by-a-constant-force) »
+« {{< resource_link 1e15ff1e-ed2c-3307-da56-70f4a7de584b "Previous" >}} | {{< resource_link 577b7e46-3bc8-a343-3dbe-46a3f2b13a74 "Next" >}} »
