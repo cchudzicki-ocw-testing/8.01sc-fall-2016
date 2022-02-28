@@ -32,7 +32,7 @@ READINGS
 0
 {{< tdclose >}}
 {{< tdopen >}}
-[Vectors]({{< baseurl >}}/pages/review-vectors#Lesson_0)
+{{< resource_link f8da8d9b-f6a4-78e6-808b-aa7e6aa62306 "Vectors" "#Lesson_0" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -54,7 +54,7 @@ READINGS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[1D Kinematics - Position and Velocity]({{< baseurl >}}/pages/week-1-kinematics#Lesson_1)
+{{< resource_link 63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a "1D Kinematics - Position and Velocity" "#Lesson_1" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -71,7 +71,7 @@ READINGS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[1D Kinematics - Acceleration]({{< baseurl >}}/pages/week-1-kinematics#Lesson_2)
+{{< resource_link 63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a "1D Kinematics - Acceleration" "#Lesson_2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -89,7 +89,7 @@ READINGS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[2D Kinematics - Position, Velocity, and Acceleration]({{< baseurl >}}/pages/week-1-kinematics#Lesson_3)
+{{< resource_link 63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a "2D Kinematics - Position, Velocity, and Acceleration" "#Lesson_3" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -112,7 +112,7 @@ READINGS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Newton's Laws of Motion]({{< baseurl >}}/pages/week-2-newtons-laws#Lesson_4)
+{{< resource_link cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329 "Newton's Laws of Motion" "#Lesson_4" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -128,7 +128,7 @@ READINGS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Gravity]({{< baseurl >}}/pages/week-2-newtons-laws#Lesson_5)
+{{< resource_link cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329 "Gravity" "#Lesson_5" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -145,7 +145,7 @@ READINGS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Contact Forces]({{< baseurl >}}/pages/week-2-newtons-laws#Lesson_6)
+{{< resource_link cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329 "Contact Forces" "#Lesson_6" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -163,7 +163,7 @@ READINGS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Tension and Springs]({{< baseurl >}}/pages/week-2-newtons-laws#Lesson_7)
+{{< resource_link cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329 "Tension and Springs" "#Lesson_7" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -181,7 +181,7 @@ READINGS
 Deep Dive 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Friction]({{< baseurl >}}/pages/week-2-newtons-laws#Deep_Dive)
+{{< resource_link cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329 "Friction" "#Deep_Dive" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 No Reading
@@ -199,7 +199,7 @@ No Reading
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Circular Motion - Position and Velocity]({{< baseurl >}}/pages/week-3-circular-motion#Lesson_8)
+{{< resource_link 3c7d357c-bb95-e729-679b-539d23714ede "Circular Motion - Position and Velocity" "#Lesson_8" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -215,7 +215,7 @@ No Reading
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Uniform Circular Motion]({{< baseurl >}}/pages/week-3-circular-motion#Lesson_9)
+{{< resource_link 3c7d357c-bb95-e729-679b-539d23714ede "Uniform Circular Motion" "#Lesson_9" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -232,7 +232,7 @@ No Reading
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Circular Motion - Acceleration]({{< baseurl >}}/pages/week-3-circular-motion#Lesson_10)
+{{< resource_link 3c7d357c-bb95-e729-679b-539d23714ede "Circular Motion - Acceleration" "#Lesson_10" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -272,7 +272,7 @@ No Reading
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Pulleys and Constraints]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems#Lessson_12)
+{{< resource_link 919a2c50-6eb4-551d-940b-b0dbab2356f0 "Pulleys and Constraints" "#Lessson_12" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -288,7 +288,7 @@ No Reading
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Massive Rope]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems#Lessson_13)
+{{< resource_link 919a2c50-6eb4-551d-940b-b0dbab2356f0 "Massive Rope" "#Lessson_13" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -306,7 +306,7 @@ No Reading
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[Resistive Forces]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems#Lessson_14)
+{{< resource_link 919a2c50-6eb4-551d-940b-b0dbab2356f0 "Resistive Forces" "#Lessson_14" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -329,7 +329,7 @@ No Reading
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Momentum and Impulse]({{< baseurl >}}/pages/week-5-momentum-and-impulse#Lessson_15)
+{{< resource_link c1168b62-a27d-cf9f-3fe2-550af1ed72f5 "Momentum and Impulse" "#Lessson_15" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -347,7 +347,7 @@ No Reading
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Conservation of Momentum]({{< baseurl >}}/pages/week-5-momentum-and-impulse#Lessson_16)
+{{< resource_link c1168b62-a27d-cf9f-3fe2-550af1ed72f5 "Conservation of Momentum" "#Lessson_16" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -365,7 +365,7 @@ No Reading
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Center of Mass and Motion of the Center of Mass]({{< baseurl >}}/pages/week-5-momentum-and-impulse#Lessson_17)
+{{< resource_link c1168b62-a27d-cf9f-3fe2-550af1ed72f5 "Center of Mass and Motion of the Center of Mass" "#Lessson_17" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -389,7 +389,7 @@ No Reading
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Relative Velocity and Recoil]({{< baseurl >}}/pages/week-6-continuous-mass-transfer#Lessson_18)
+{{< resource_link 28d93f13-f552-de72-9aab-415b7158be8e "Relative Velocity and Recoil" "#Lessson_18" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -405,7 +405,7 @@ No Reading
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Continuous Mass Transfer]({{< baseurl >}}/pages/week-6-continuous-mass-transfer#Lessson_19)
+{{< resource_link 28d93f13-f552-de72-9aab-415b7158be8e "Continuous Mass Transfer" "#Lessson_19" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -427,7 +427,7 @@ No Reading
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Kinetic Energy and Work in 1D]({{< baseurl >}}/pages/week-7-kinetic-energy-and-work#Lessson_20)
+{{< resource_link 1099b766-7930-f7e5-1ccc-c80d63899c02 "Kinetic Energy and Work in 1D" "#Lessson_20" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -448,7 +448,7 @@ No Reading
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Kinetic Energy and Work in 2D and 3D]({{< baseurl >}}/pages/week-7-kinetic-energy-and-work#Lessson_21)
+{{< resource_link 1099b766-7930-f7e5-1ccc-c80d63899c02 "Kinetic Energy and Work in 2D and 3D" "#Lessson_21" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -467,7 +467,7 @@ No Reading
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Conservative and Non-conservative Forces]({{< baseurl >}}/pages/week-7-kinetic-energy-and-work#Lessson_22)
+{{< resource_link 1099b766-7930-f7e5-1ccc-c80d63899c02 "Conservative and Non-conservative Forces" "#Lessson_22" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -490,7 +490,7 @@ No Reading
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Potential Energy]({{< baseurl >}}/pages/week-8-potential-energy-and-energy-conservation#Lessson_23)
+{{< resource_link 13949981-43ef-cc49-3f7c-98265cfbd3ae "Potential Energy" "#Lessson_23" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -507,7 +507,7 @@ No Reading
 24
 {{< tdclose >}}
 {{< tdopen >}}
-[Conservation of Energy]({{< baseurl >}}/pages/week-8-potential-energy-and-energy-conservation#Lessson_24)
+{{< resource_link 13949981-43ef-cc49-3f7c-98265cfbd3ae "Conservation of Energy" "#Lessson_24" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -526,7 +526,7 @@ No Reading
 25
 {{< tdclose >}}
 {{< tdopen >}}
-[Potential Energy Diagrams]({{< baseurl >}}/pages/week-8-potential-energy-and-energy-conservation#Lessson_25)
+{{< resource_link 13949981-43ef-cc49-3f7c-98265cfbd3ae "Potential Energy Diagrams" "#Lessson_25" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -548,7 +548,7 @@ No Reading
 26
 {{< tdclose >}}
 {{< tdopen >}}
-[Types of Collision]({{< baseurl >}}/pages/week-9-collision-theory#Lessson_26)
+{{< resource_link bc33ee80-c8fd-90e4-dfda-7092ddd24879 "Types of Collision" "#Lessson_26" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -564,7 +564,7 @@ No Reading
 27
 {{< tdclose >}}
 {{< tdopen >}}
-[Elastic Collisions]({{< baseurl >}}/pages/week-9-collision-theory#Lessson_27)
+{{< resource_link bc33ee80-c8fd-90e4-dfda-7092ddd24879 "Elastic Collisions" "#Lessson_27" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -580,7 +580,7 @@ No Reading
 Deep Dive 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Center of Mass Reference Frame]({{< baseurl >}}/pages/week-9-collision-theory#Deep_Dive)
+{{< resource_link bc33ee80-c8fd-90e4-dfda-7092ddd24879 "Center of Mass Reference Frame" "#Deep_Dive" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 No Reading
@@ -598,7 +598,7 @@ No Reading
 28
 {{< tdclose >}}
 {{< tdopen >}}
-[Motion of a Rigid Body]({{< baseurl >}}/pages/week-10-rotational-motion#Lesson_28)
+{{< resource_link 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47 "Motion of a Rigid Body" "#Lesson_28" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -614,7 +614,7 @@ No Reading
 29
 {{< tdclose >}}
 {{< tdopen >}}
-[Moment of Inertia]({{< baseurl >}}/pages/week-10-rotational-motion#Lesson_29)
+{{< resource_link 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47 "Moment of Inertia" "#Lesson_29" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -630,7 +630,7 @@ No Reading
 30
 {{< tdclose >}}
 {{< tdopen >}}
-[Torque]({{< baseurl >}}/pages/week-10-rotational-motion#Lesson_30)
+{{< resource_link 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47 "Torque" "#Lesson_30" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -647,7 +647,7 @@ No Reading
 31
 {{< tdclose >}}
 {{< tdopen >}}
-[Rotational Dynamics]({{< baseurl >}}/pages/week-10-rotational-motion#Lesson_31)
+{{< resource_link 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47 "Rotational Dynamics" "#Lesson_31" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -670,7 +670,7 @@ No Reading
 32
 {{< tdclose >}}
 {{< tdopen >}}
-[Angular Momentum of a Point Particle]({{< baseurl >}}/pages/week-11-angular-momentum#Lesson_32)
+{{< resource_link d36579bd-7dfc-b71f-7617-8b4b8d45c312 "Angular Momentum of a Point Particle" "#Lesson_32" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -686,7 +686,7 @@ No Reading
 33
 {{< tdclose >}}
 {{< tdopen >}}
-[Angular Momentum of a Rigid Body about a Fixed Axis]({{< baseurl >}}/pages/week-11-angular-momentum#Lesson_33)
+{{< resource_link d36579bd-7dfc-b71f-7617-8b4b8d45c312 "Angular Momentum of a Rigid Body about a Fixed Axis" "#Lesson_33" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -702,7 +702,7 @@ No Reading
 34
 {{< tdclose >}}
 {{< tdopen >}}
-[Torque and Angular Impulse]({{< baseurl >}}/pages/week-11-angular-momentum#Lesson_34)
+{{< resource_link d36579bd-7dfc-b71f-7617-8b4b8d45c312 "Torque and Angular Impulse" "#Lesson_34" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -724,7 +724,7 @@ No Reading
 35
 {{< tdclose >}}
 {{< tdopen >}}
-[Rolling Kinematics]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling#Lesson_35)
+{{< resource_link fbf76190-d89e-eed2-930e-51f9ac3bf2a6 "Rolling Kinematics" "#Lesson_35" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -740,7 +740,7 @@ No Reading
 36
 {{< tdclose >}}
 {{< tdopen >}}
-[Rolling Dynamics]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling#Lesson_36)
+{{< resource_link fbf76190-d89e-eed2-930e-51f9ac3bf2a6 "Rolling Dynamics" "#Lesson_36" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -756,7 +756,7 @@ No Reading
 37
 {{< tdclose >}}
 {{< tdopen >}}
-[Rolling Kinetic Energy and Angular Momentum]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling#Lesson_37)
+{{< resource_link fbf76190-d89e-eed2-930e-51f9ac3bf2a6 "Rolling Kinetic Energy and Angular Momentum" "#Lesson_37" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -773,7 +773,7 @@ No Reading
 Deep Dive 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Gyroscopes]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling#Deep_Dive)
+{{< resource_link fbf76190-d89e-eed2-930e-51f9ac3bf2a6 "Gyroscopes" "#Deep_Dive" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 No Reading
