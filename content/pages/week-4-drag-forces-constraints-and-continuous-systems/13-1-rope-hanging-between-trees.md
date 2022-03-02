@@ -9,7 +9,7 @@ title: 13.1 Rope Hanging Between Trees
 uid: 869e8587-bad0-5bba-6781-da19b701a57a
 ---
 
-« {{< resource_link f748652c-b4c5-1b41-6e16-e3ed086b9a18 "Previous" >}} | {{< resource_link 4e199c9d-728f-2361-dba9-e6d3e7975c88 "Next" >}} »
+« {{% resource_link f748652c-b4c5-1b41-6e16-e3ed086b9a18 "Previous" %}} | {{% resource_link 4e199c9d-728f-2361-dba9-e6d3e7975c88 "Next" %}} »
 
 {{< resource 838633c7-0a5b-59cc-e23f-0909eaeb96d7 >}}
 
@@ -19,4 +19,4 @@ Calculate \\(\\displaystyle T\_{mid}\\), the tension in the rope at the midpoint
 
 {{< resource 5ec20a3c-d412-b3ca-4d50-e5cf07527d9c >}}
 
-« {{< resource_link f748652c-b4c5-1b41-6e16-e3ed086b9a18 "Previous" >}} | {{< resource_link 4e199c9d-728f-2361-dba9-e6d3e7975c88 "Next" >}} »
+« {{% resource_link f748652c-b4c5-1b41-6e16-e3ed086b9a18 "Previous" %}} | {{% resource_link 4e199c9d-728f-2361-dba9-e6d3e7975c88 "Next" %}} »

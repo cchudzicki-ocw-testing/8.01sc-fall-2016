@@ -9,7 +9,7 @@ title: Problem Set 6
 uid: e75cbe56-57dc-1b51-c934-c400a80d903c
 ---
 
-« {{< resource_link a58a3ece-6fdc-129d-7564-5ca98d437fce "Previous" >}} | {{< resource_link 1099b766-7930-f7e5-1ccc-c80d63899c02 "Next" >}} »
+« {{% resource_link a58a3ece-6fdc-129d-7564-5ca98d437fce "Previous" %}} | {{% resource_link 1099b766-7930-f7e5-1ccc-c80d63899c02 "Next" %}} »
 
 Problem Set 6 contains the following problems:
 
@@ -19,6 +19,6 @@ Problem Set 6 contains the following problems:
 4.  Falling Drop
 5.  Moving Vehicle and Falling rain
 
-*   {{< resource_link 44b46fb9-ae75-7967-5988-4a9a7f7bd167 "Problem Set 6 (PDF)" >}}
+*   {{% resource_link 44b46fb9-ae75-7967-5988-4a9a7f7bd167 "Problem Set 6 (PDF)" %}}
 
-« {{< resource_link a58a3ece-6fdc-129d-7564-5ca98d437fce "Previous" >}} | {{< resource_link 1099b766-7930-f7e5-1ccc-c80d63899c02 "Next" >}} »
+« {{% resource_link a58a3ece-6fdc-129d-7564-5ca98d437fce "Previous" %}} | {{% resource_link 1099b766-7930-f7e5-1ccc-c80d63899c02 "Next" %}} »

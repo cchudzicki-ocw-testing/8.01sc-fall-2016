@@ -9,8 +9,8 @@ title: 0.2 Vector Operators
 uid: fca937cf-567f-b9b5-c060-e97a4d628dd4
 ---
 
-« {{< resource_link 649cf3cc-8fa4-f358-b8d5-87dc9811786f "Previous" >}} | {{< resource_link b5ed45d2-7d02-06a6-4148-1b289c91aa1a "Next" >}} »
+« {{% resource_link 649cf3cc-8fa4-f358-b8d5-87dc9811786f "Previous" %}} | {{% resource_link b5ed45d2-7d02-06a6-4148-1b289c91aa1a "Next" %}} »
 
 {{< resource 92bcb7ad-eb88-a609-61d0-4812e4b1a4ca >}}
 
-« {{< resource_link 649cf3cc-8fa4-f358-b8d5-87dc9811786f "Previous" >}} | {{< resource_link b5ed45d2-7d02-06a6-4148-1b289c91aa1a "Next" >}} »
+« {{% resource_link 649cf3cc-8fa4-f358-b8d5-87dc9811786f "Previous" %}} | {{% resource_link b5ed45d2-7d02-06a6-4148-1b289c91aa1a "Next" %}} »

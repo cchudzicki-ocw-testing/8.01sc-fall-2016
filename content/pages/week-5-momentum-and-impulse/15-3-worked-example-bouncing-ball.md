@@ -9,7 +9,7 @@ title: 15.3 Worked Example - Bouncing Ball
 uid: 8eb0ed0a-f63c-549e-dcc9-c64765a58d66
 ---
 
-« {{< resource_link b216375a-21c7-e9bd-51b4-9883ed386898 "Previous" >}} | {{< resource_link 180c4509-b887-d8f4-1e1b-94fa387338fe "Next" >}} »
+« {{% resource_link b216375a-21c7-e9bd-51b4-9883ed386898 "Previous" %}} | {{% resource_link 180c4509-b887-d8f4-1e1b-94fa387338fe "Next" %}} »
 
 **Definition of Average Force:**
 
@@ -23,4 +23,4 @@ A ball of mass \\(\\displaystyle m\\) is released from rest from a height \\(\\d
 
 {{< resource 07d5221b-51c5-a39c-7e18-9eb8622b852b >}}
 
-« {{< resource_link b216375a-21c7-e9bd-51b4-9883ed386898 "Previous" >}} | {{< resource_link 180c4509-b887-d8f4-1e1b-94fa387338fe "Next" >}} »
+« {{% resource_link b216375a-21c7-e9bd-51b4-9883ed386898 "Previous" %}} | {{% resource_link 180c4509-b887-d8f4-1e1b-94fa387338fe "Next" %}} »

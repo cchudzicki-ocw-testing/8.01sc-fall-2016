@@ -9,8 +9,8 @@ title: 37.1 Kinetic Energy of Translation and Rotation
 uid: 34137618-411d-4427-e914-e646a3f7f568
 ---
 
-« {{< resource_link 015115c3-d5ff-c9f4-317b-0749ccfbd35d "Previous" >}} | {{< resource_link 6dde6688-f1fa-20f2-de5a-06f1a9aa9665 "Next" >}} »
+« {{% resource_link 015115c3-d5ff-c9f4-317b-0749ccfbd35d "Previous" %}} | {{% resource_link 6dde6688-f1fa-20f2-de5a-06f1a9aa9665 "Next" %}} »
 
 {{< resource 16cf621b-8688-16ca-78e6-af0c2aaa23f5 >}}
 
-« {{< resource_link 015115c3-d5ff-c9f4-317b-0749ccfbd35d "Previous" >}} | {{< resource_link 6dde6688-f1fa-20f2-de5a-06f1a9aa9665 "Next" >}} »
+« {{% resource_link 015115c3-d5ff-c9f4-317b-0749ccfbd35d "Previous" %}} | {{% resource_link 6dde6688-f1fa-20f2-de5a-06f1a9aa9665 "Next" %}} »

@@ -9,7 +9,7 @@ title: 3.5 Demos for Projectile Motion
 uid: 6669a530-8dce-181c-2e48-270a536a419c
 ---
 
-« {{< resource_link 2e884df3-0ceb-f8b2-a4e2-7d363412349e "Previous" >}} | {{< resource_link ee2f73c8-bddd-e169-e39c-a455f12469aa "Next" >}} »
+« {{% resource_link 2e884df3-0ceb-f8b2-a4e2-7d363412349e "Previous" %}} | {{% resource_link ee2f73c8-bddd-e169-e39c-a455f12469aa "Next" %}} »
 
 Demo: Shooting an Apple
 -----------------------
@@ -21,4 +21,4 @@ Demo: Relative Motion Gun
 
 {{< resource 0cc95664-e453-68a1-ee48-8333a1e1e5d1 >}}
 
-« {{< resource_link 2e884df3-0ceb-f8b2-a4e2-7d363412349e "Previous" >}} | {{< resource_link ee2f73c8-bddd-e169-e39c-a455f12469aa "Next" >}} »
+« {{% resource_link 2e884df3-0ceb-f8b2-a4e2-7d363412349e "Previous" %}} | {{% resource_link ee2f73c8-bddd-e169-e39c-a455f12469aa "Next" %}} »

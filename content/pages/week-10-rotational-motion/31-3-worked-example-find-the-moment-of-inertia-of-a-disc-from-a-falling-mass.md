@@ -9,8 +9,8 @@ title: 31.3 Worked Example - Find the Moment of Inertia of a Disc from a Falling
 uid: 4c4b7dff-9b7b-8e45-58c2-0037e21a15d8
 ---
 
-« {{< resource_link 4fe8b2df-f905-edca-0bf0-6b0f81f898b3 "Previous" >}} | {{< resource_link 770f89d7-73c1-236d-f48f-673fd378e5a4 "Next" >}} »
+« {{% resource_link 4fe8b2df-f905-edca-0bf0-6b0f81f898b3 "Previous" %}} | {{% resource_link 770f89d7-73c1-236d-f48f-673fd378e5a4 "Next" %}} »
 
 {{< resource 442cb40c-0a48-5828-9788-12e9aa7f864d >}}
 
-« {{< resource_link 4fe8b2df-f905-edca-0bf0-6b0f81f898b3 "Previous" >}} | {{< resource_link 770f89d7-73c1-236d-f48f-673fd378e5a4 "Next" >}} »
+« {{% resource_link 4fe8b2df-f905-edca-0bf0-6b0f81f898b3 "Previous" %}} | {{% resource_link 770f89d7-73c1-236d-f48f-673fd378e5a4 "Next" %}} »

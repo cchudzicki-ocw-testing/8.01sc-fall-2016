@@ -9,7 +9,7 @@ title: PS.1.2 Shooting the Apple
 uid: 3d4cf0c9-ea1b-525e-0dda-74b39d1080a8
 ---
 
-« {{< resource_link ee2f73c8-bddd-e169-e39c-a455f12469aa "Previous" >}} | {{< resource_link c00c7194-c0ce-a091-fd9b-c5f3ba49fe85 "Next" >}} »
+« {{% resource_link ee2f73c8-bddd-e169-e39c-a455f12469aa "Previous" %}} | {{% resource_link c00c7194-c0ce-a091-fd9b-c5f3ba49fe85 "Next" %}} »
 
 {{< resource 56f8dd96-7450-729c-091f-83315a6e971b >}}
 
@@ -17,4 +17,4 @@ An apple is suspended a height \\(\\displaystyle h \\) above the ground. A physi
 
 {{< resource e45630ac-0563-8cf9-6c96-b6ef7727451b >}}
 
-« {{< resource_link ee2f73c8-bddd-e169-e39c-a455f12469aa "Previous" >}} | {{< resource_link c00c7194-c0ce-a091-fd9b-c5f3ba49fe85 "Next" >}} »
+« {{% resource_link ee2f73c8-bddd-e169-e39c-a455f12469aa "Previous" %}} | {{% resource_link c00c7194-c0ce-a091-fd9b-c5f3ba49fe85 "Next" %}} »

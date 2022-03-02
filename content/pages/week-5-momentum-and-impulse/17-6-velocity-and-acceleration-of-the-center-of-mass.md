@@ -9,7 +9,7 @@ title: 17.6 Velocity and Acceleration of the Center of Mass
 uid: 8de92a30-b4b3-f264-b6a6-8332032322e6
 ---
 
-« {{< resource_link 34ea9bcd-7d7e-52f4-40fa-64d7869ae7af "Previous" >}} | {{< resource_link f28687ea-d20d-420d-06a3-9e668b5b95a4 "Next" >}} »
+« {{% resource_link 34ea9bcd-7d7e-52f4-40fa-64d7869ae7af "Previous" %}} | {{% resource_link f28687ea-d20d-420d-06a3-9e668b5b95a4 "Next" %}} »
 
 {{< resource bda4053b-e2cf-ede6-a2f6-98bd4ea43a6e >}}
 
@@ -21,4 +21,4 @@ uid: 8de92a30-b4b3-f264-b6a6-8332032322e6
 
 3\. No external force implies constant Vcm
 
-« {{< resource_link 34ea9bcd-7d7e-52f4-40fa-64d7869ae7af "Previous" >}} | {{< resource_link f28687ea-d20d-420d-06a3-9e668b5b95a4 "Next" >}} »
+« {{% resource_link 34ea9bcd-7d7e-52f4-40fa-64d7869ae7af "Previous" %}} | {{% resource_link f28687ea-d20d-420d-06a3-9e668b5b95a4 "Next" %}} »

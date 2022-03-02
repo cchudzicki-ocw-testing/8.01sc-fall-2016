@@ -9,8 +9,8 @@ title: 4.4 Non-inertial Reference Frames
 uid: 8e86b662-b40a-b185-1a2a-e25deec90980
 ---
 
-« {{< resource_link 54de9913-bb60-e096-9b92-edfe927ab3ac "Previous" >}} | {{< resource_link 5a03ea05-c949-6dde-2e74-b2e89df96295 "Next" >}} »
+« {{% resource_link 54de9913-bb60-e096-9b92-edfe927ab3ac "Previous" %}} | {{% resource_link 5a03ea05-c949-6dde-2e74-b2e89df96295 "Next" %}} »
 
 {{< resource f8438c8b-9c1e-79ff-67f4-00393e7da41d >}}
 
-« {{< resource_link 54de9913-bb60-e096-9b92-edfe927ab3ac "Previous" >}} | {{< resource_link 5a03ea05-c949-6dde-2e74-b2e89df96295 "Next" >}} »
+« {{% resource_link 54de9913-bb60-e096-9b92-edfe927ab3ac "Previous" %}} | {{% resource_link 5a03ea05-c949-6dde-2e74-b2e89df96295 "Next" %}} »

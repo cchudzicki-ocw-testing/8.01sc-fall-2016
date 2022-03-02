@@ -9,8 +9,8 @@ title: 1.5 Instantaneous Velocity in 1D
 uid: 595db4b7-b909-9dcb-d43d-98e6d638ebc0
 ---
 
-« {{< resource_link d33e0e78-7346-2da7-11ec-a59fb555dab2 "Previous" >}} | {{< resource_link e2ff4dd6-34aa-9891-22c6-cf27dbab579a "Next" >}} »
+« {{% resource_link d33e0e78-7346-2da7-11ec-a59fb555dab2 "Previous" %}} | {{% resource_link e2ff4dd6-34aa-9891-22c6-cf27dbab579a "Next" %}} »
 
 {{< resource ceee8942-414f-133b-6722-b57ab45bc139 >}}
 
-« {{< resource_link d33e0e78-7346-2da7-11ec-a59fb555dab2 "Previous" >}} | {{< resource_link e2ff4dd6-34aa-9891-22c6-cf27dbab579a "Next" >}} »
+« {{% resource_link d33e0e78-7346-2da7-11ec-a59fb555dab2 "Previous" %}} | {{% resource_link e2ff4dd6-34aa-9891-22c6-cf27dbab579a "Next" %}} »

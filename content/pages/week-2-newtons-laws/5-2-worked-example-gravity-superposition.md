@@ -9,7 +9,7 @@ title: '5.2 Worked Example: Gravity Superposition'
 uid: f38128e4-b503-ea04-9e1f-d330c59669a7
 ---
 
-« {{< resource_link 5a03ea05-c949-6dde-2e74-b2e89df96295 "Previous" >}} | {{< resource_link 8f8d84a8-d95e-e480-3eb2-7692d4b802e8 "Next" >}} »
+« {{% resource_link 5a03ea05-c949-6dde-2e74-b2e89df96295 "Previous" %}} | {{% resource_link 8f8d84a8-d95e-e480-3eb2-7692d4b802e8 "Next" %}} »
 
 {{< resource 278168bf-d79f-3a36-029c-19e927a6d33a >}}
 
@@ -19,4 +19,4 @@ Express your answer in terms of the gravitational constant \\(\\displaystyle G \
 
 {{< resource 3c391201-0207-e80e-b814-3fc59ad3b954 >}}
 
-« {{< resource_link 5a03ea05-c949-6dde-2e74-b2e89df96295 "Previous" >}} | {{< resource_link 8f8d84a8-d95e-e480-3eb2-7692d4b802e8 "Next" >}} »
+« {{% resource_link 5a03ea05-c949-6dde-2e74-b2e89df96295 "Previous" %}} | {{% resource_link 8f8d84a8-d95e-e480-3eb2-7692d4b802e8 "Next" %}} »

@@ -9,7 +9,7 @@ title: 37.2 Worked Example - Wheel Rolling Without Slipping Down Inclined Plane
 uid: 6dde6688-f1fa-20f2-de5a-06f1a9aa9665
 ---
 
-« {{< resource_link 34137618-411d-4427-e914-e646a3f7f568 "Previous" >}} | {{< resource_link 000aca2a-6673-bebe-bca1-cca975a696f5 "Next" >}} »
+« {{% resource_link 34137618-411d-4427-e914-e646a3f7f568 "Previous" %}} | {{% resource_link 000aca2a-6673-bebe-bca1-cca975a696f5 "Next" %}} »
 
 {{< resource 4927e405-25ea-f10e-616a-be1953bc04d6 >}}
 
@@ -17,4 +17,4 @@ A cylinder of radius \\(\\displaystyle R\\), mass \\(\\displaystyle M\\), and mo
 
 {{< resource e1e5fbf2-e250-1e72-085f-9d0cb00cdd3c >}}
 
-« {{< resource_link 34137618-411d-4427-e914-e646a3f7f568 "Previous" >}} | {{< resource_link 000aca2a-6673-bebe-bca1-cca975a696f5 "Next" >}} »
+« {{% resource_link 34137618-411d-4427-e914-e646a3f7f568 "Previous" %}} | {{% resource_link 000aca2a-6673-bebe-bca1-cca975a696f5 "Next" %}} »

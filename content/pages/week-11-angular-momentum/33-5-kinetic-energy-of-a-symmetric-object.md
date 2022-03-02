@@ -9,8 +9,8 @@ title: 33.5 Kinetic Energy of a Symmetric Object
 uid: 83e25719-052f-e7f0-5c93-414bc8930ed2
 ---
 
-« {{< resource_link 0b2abad3-b372-2a17-6549-706afcee6510 "Previous" >}} | {{< resource_link 764c8090-e1bb-ac38-6446-3719891094c3 "Next" >}} »
+« {{% resource_link 0b2abad3-b372-2a17-6549-706afcee6510 "Previous" %}} | {{% resource_link 764c8090-e1bb-ac38-6446-3719891094c3 "Next" %}} »
 
 {{< resource 6a57e90a-d8bf-b501-ecf0-5658e032688a >}}
 
-« {{< resource_link 0b2abad3-b372-2a17-6549-706afcee6510 "Previous" >}} | {{< resource_link 764c8090-e1bb-ac38-6446-3719891094c3 "Next" >}} »
+« {{% resource_link 0b2abad3-b372-2a17-6549-706afcee6510 "Previous" %}} | {{% resource_link 764c8090-e1bb-ac38-6446-3719891094c3 "Next" %}} »

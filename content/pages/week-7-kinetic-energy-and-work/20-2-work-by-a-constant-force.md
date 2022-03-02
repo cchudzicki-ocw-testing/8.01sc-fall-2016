@@ -9,8 +9,8 @@ title: 20.2 Work by a Constant Force
 uid: 577b7e46-3bc8-a343-3dbe-46a3f2b13a74
 ---
 
-« {{< resource_link 134ce034-c409-79f8-36a7-214e6d16747e "Previous" >}} | {{< resource_link 71c8f521-ab31-1659-2633-8a7ec1e2f40e "Next" >}} »
+« {{% resource_link 134ce034-c409-79f8-36a7-214e6d16747e "Previous" %}} | {{% resource_link 71c8f521-ab31-1659-2633-8a7ec1e2f40e "Next" %}} »
 
 {{< resource 7a261099-d269-b16b-1313-0b158cc32b65 >}}
 
-« {{< resource_link 134ce034-c409-79f8-36a7-214e6d16747e "Previous" >}} | {{< resource_link 71c8f521-ab31-1659-2633-8a7ec1e2f40e "Next" >}} »
+« {{% resource_link 134ce034-c409-79f8-36a7-214e6d16747e "Previous" %}} | {{% resource_link 71c8f521-ab31-1659-2633-8a7ec1e2f40e "Next" %}} »

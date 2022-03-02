@@ -9,7 +9,7 @@ title: "10.1 Circular Motion \u2013 Acceleration"
 uid: fc4bb7fe-8852-f18e-d0a7-cc1c4ea5e402
 ---
 
-« {{< resource_link e414f837-923e-dc77-a17f-689283bb4e07 "Previous" >}} | {{< resource_link 08e40d5c-6ee9-89ee-a653-bc06afe5862d "Next" >}} »
+« {{% resource_link e414f837-923e-dc77-a17f-689283bb4e07 "Previous" %}} | {{% resource_link 08e40d5c-6ee9-89ee-a653-bc06afe5862d "Next" %}} »
 
 Acceleration in Circular Motion: \\(\\vec{a} = r\\frac{d^2\\theta}{dt^2}\\hat{\\theta} + r(\\frac{d\\theta}{dt})^2(-\\hat{r})\\)
 
@@ -31,4 +31,4 @@ We know that \\( \\left(\\cos(\\theta) \\hat{i} + \\sin(\\theta)\\hat{j} \\right
 
 \\\[ \\begin{align} \\frac{d\\hat{\\theta}}{dt} = - \\frac{d\\theta}{dt} \\hat{r} \\end{align} \\\]
 
-« {{< resource_link e414f837-923e-dc77-a17f-689283bb4e07 "Previous" >}} | {{< resource_link 08e40d5c-6ee9-89ee-a653-bc06afe5862d "Next" >}} »
+« {{% resource_link e414f837-923e-dc77-a17f-689283bb4e07 "Previous" %}} | {{% resource_link 08e40d5c-6ee9-89ee-a653-bc06afe5862d "Next" %}} »

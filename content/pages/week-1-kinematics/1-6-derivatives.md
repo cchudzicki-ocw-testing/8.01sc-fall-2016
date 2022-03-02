@@ -9,7 +9,7 @@ title: 1.6 Derivatives
 uid: e2ff4dd6-34aa-9891-22c6-cf27dbab579a
 ---
 
-« {{< resource_link 595db4b7-b909-9dcb-d43d-98e6d638ebc0 "Previous" >}} | {{< resource_link 4b4d3f00-ac10-19a8-a4b6-6a56291c1228 "Next" >}} »
+« {{% resource_link 595db4b7-b909-9dcb-d43d-98e6d638ebc0 "Previous" %}} | {{% resource_link 4b4d3f00-ac10-19a8-a4b6-6a56291c1228 "Next" %}} »
 
 **List of useful derivatives:**
 
@@ -50,4 +50,4 @@ uid: e2ff4dd6-34aa-9891-22c6-cf27dbab579a
 2.  [OCW: Single Variable Calculus - Video Lecture 3](/courses/18-01-single-variable-calculus-fall-2006/resources/lecture-3-derivatives)
 3.  [Wolfram Alpha](http://www.wolframalpha.com/)
 
-« {{< resource_link 595db4b7-b909-9dcb-d43d-98e6d638ebc0 "Previous" >}} | {{< resource_link 4b4d3f00-ac10-19a8-a4b6-6a56291c1228 "Next" >}} »
+« {{% resource_link 595db4b7-b909-9dcb-d43d-98e6d638ebc0 "Previous" %}} | {{% resource_link 4b4d3f00-ac10-19a8-a4b6-6a56291c1228 "Next" %}} »

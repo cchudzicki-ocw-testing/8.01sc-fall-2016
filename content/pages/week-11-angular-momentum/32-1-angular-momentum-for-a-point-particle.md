@@ -9,8 +9,8 @@ title: 32.1 Angular Momentum for a Point Particle
 uid: 432d416e-7880-ce79-80b5-07f7884c036e
 ---
 
-« {{< resource_link 5e792911-b6e1-ef7b-9df6-e601cddc19bb "Previous" >}} | {{< resource_link 9a737552-bdc9-c829-a161-0f005e91aabd "Next" >}} »
+« {{% resource_link 5e792911-b6e1-ef7b-9df6-e601cddc19bb "Previous" %}} | {{% resource_link 9a737552-bdc9-c829-a161-0f005e91aabd "Next" %}} »
 
 {{< resource eb86c263-4fdd-ee36-2101-ed169207287d >}}
 
-« {{< resource_link 5e792911-b6e1-ef7b-9df6-e601cddc19bb "Previous" >}} | {{< resource_link 9a737552-bdc9-c829-a161-0f005e91aabd "Next" >}} »
+« {{% resource_link 5e792911-b6e1-ef7b-9df6-e601cddc19bb "Previous" %}} | {{% resource_link 9a737552-bdc9-c829-a161-0f005e91aabd "Next" %}} »

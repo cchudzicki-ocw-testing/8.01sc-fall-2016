@@ -9,8 +9,8 @@ title: 13.6 Summary of Differential Analysis
 uid: d993643f-df0a-e364-c29a-d9cf58089992
 ---
 
-« {{< resource_link 925902fb-58d9-13d4-f7cc-63f17c643740 "Previous" >}} | {{< resource_link b0dfeda3-e8e0-1b02-c85d-7aaa620c1e61 "Next" >}} »
+« {{% resource_link 925902fb-58d9-13d4-f7cc-63f17c643740 "Previous" %}} | {{% resource_link b0dfeda3-e8e0-1b02-c85d-7aaa620c1e61 "Next" %}} »
 
 {{< resource a0baa0be-ae3f-ae08-01b9-992f84ffdbf6 >}}
 
-« {{< resource_link 925902fb-58d9-13d4-f7cc-63f17c643740 "Previous" >}} | {{< resource_link b0dfeda3-e8e0-1b02-c85d-7aaa620c1e61 "Next" >}} »
+« {{% resource_link 925902fb-58d9-13d4-f7cc-63f17c643740 "Previous" %}} | {{% resource_link b0dfeda3-e8e0-1b02-c85d-7aaa620c1e61 "Next" %}} »

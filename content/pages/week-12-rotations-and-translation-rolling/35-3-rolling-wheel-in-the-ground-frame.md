@@ -9,8 +9,8 @@ title: 35.3 Rolling Wheel in the Ground Frame
 uid: 1be03849-15bb-98d7-dc04-82ff2da28f98
 ---
 
-« {{< resource_link 08c4edd4-b9bf-a4da-3830-00d191309dc1 "Previous" >}} | {{< resource_link 30156a4d-14f4-33f7-b6ac-b21aedd09d31 "Next" >}} »
+« {{% resource_link 08c4edd4-b9bf-a4da-3830-00d191309dc1 "Previous" %}} | {{% resource_link 30156a4d-14f4-33f7-b6ac-b21aedd09d31 "Next" %}} »
 
 {{< resource aa8d2c7e-a62f-4ac4-83d6-f3496a3423f0 >}}
 
-« {{< resource_link 08c4edd4-b9bf-a4da-3830-00d191309dc1 "Previous" >}} | {{< resource_link 30156a4d-14f4-33f7-b6ac-b21aedd09d31 "Next" >}} »
+« {{% resource_link 08c4edd4-b9bf-a4da-3830-00d191309dc1 "Previous" %}} | {{% resource_link 30156a4d-14f4-33f7-b6ac-b21aedd09d31 "Next" %}} »

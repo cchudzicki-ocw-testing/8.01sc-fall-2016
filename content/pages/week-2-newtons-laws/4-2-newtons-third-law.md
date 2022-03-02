@@ -9,8 +9,8 @@ title: 4.2 Newton's Third Law
 uid: 2177d0e5-d0ce-54c6-5457-5859c51c9b60
 ---
 
-« {{< resource_link aa795ebd-f4fa-443e-b69f-1f033e83a93f "Previous" >}} | {{< resource_link 54de9913-bb60-e096-9b92-edfe927ab3ac "Next" >}} »
+« {{% resource_link aa795ebd-f4fa-443e-b69f-1f033e83a93f "Previous" %}} | {{% resource_link 54de9913-bb60-e096-9b92-edfe927ab3ac "Next" %}} »
 
 {{< resource 2892e023-a213-183d-c210-d923b9937fa6 >}}
 
-« {{< resource_link aa795ebd-f4fa-443e-b69f-1f033e83a93f "Previous" >}} | {{< resource_link 54de9913-bb60-e096-9b92-edfe927ab3ac "Next" >}} »
+« {{% resource_link aa795ebd-f4fa-443e-b69f-1f033e83a93f "Previous" %}} | {{% resource_link 54de9913-bb60-e096-9b92-edfe927ab3ac "Next" %}} »

@@ -9,7 +9,7 @@ title: 'PS.1.5 Worked Example: Pedestrian and Bike at Intersection'
 uid: 78b6dfdb-1434-37ce-0d07-1e7e7521a24e
 ---
 
-« {{< resource_link 0f1188dc-261a-bcd9-fb9a-a4c677f9db3a "Previous" >}} | {{< resource_link bcc90f49-f292-0609-8ad9-efd22acf9676 "Next" >}} »
+« {{% resource_link 0f1188dc-261a-bcd9-fb9a-a4c677f9db3a "Previous" %}} | {{% resource_link bcc90f49-f292-0609-8ad9-efd22acf9676 "Next" %}} »
 
 You are in a car standing by a traffic light and at time \\(\\displaystyle t=0 \\) the light turns green. You start to accelerate during the first \\(\\displaystyle t\_1 \\) seconds so that the acceleration of your car is given by:
 
@@ -54,4 +54,4 @@ Use (eq.1) and (eq. 2) to obtain the value of \\(\\displaystyle b\_2 \\). Expres
 
 {{< resource e0c2768c-0836-8a33-b6f6-5ec2b2d68659 >}}
 
-« {{< resource_link 0f1188dc-261a-bcd9-fb9a-a4c677f9db3a "Previous" >}} | {{< resource_link bcc90f49-f292-0609-8ad9-efd22acf9676 "Next" >}} »
+« {{% resource_link 0f1188dc-261a-bcd9-fb9a-a4c677f9db3a "Previous" %}} | {{% resource_link bcc90f49-f292-0609-8ad9-efd22acf9676 "Next" %}} »

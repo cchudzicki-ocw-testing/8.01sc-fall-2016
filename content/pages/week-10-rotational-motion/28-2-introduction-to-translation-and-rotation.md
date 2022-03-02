@@ -9,8 +9,8 @@ title: 28.2 Introduction to Translation and Rotation
 uid: cafeab96-1cc4-0b56-1181-e1020195ed8c
 ---
 
-« {{< resource_link 625a15e4-5ff0-83db-bb2e-81a6583103c5 "Previous" >}} | {{< resource_link daf0eba2-915c-8ca8-6c31-55fb9b7e0a5b "Next" >}} »
+« {{% resource_link 625a15e4-5ff0-83db-bb2e-81a6583103c5 "Previous" %}} | {{% resource_link daf0eba2-915c-8ca8-6c31-55fb9b7e0a5b "Next" %}} »
 
 {{< resource 0ccba1df-5c35-1ed8-8328-fb3942c489d3 >}}
 
-« {{< resource_link 625a15e4-5ff0-83db-bb2e-81a6583103c5 "Previous" >}} | {{< resource_link daf0eba2-915c-8ca8-6c31-55fb9b7e0a5b "Next" >}} »
+« {{% resource_link 625a15e4-5ff0-83db-bb2e-81a6583103c5 "Previous" %}} | {{% resource_link daf0eba2-915c-8ca8-6c31-55fb9b7e0a5b "Next" %}} »

@@ -9,8 +9,8 @@ title: 3.1 Coordinate System and Position Vector in 2D
 uid: 355b5de2-6116-b582-7ce8-833ba051ad9f
 ---
 
-« {{< resource_link 52166d73-6e4e-5e12-6d64-5ad6a0c7a9f2 "Previous" >}} | {{< resource_link 6ef6b2ca-b9e3-bcd5-64f3-355af26ca131 "Next" >}} »
+« {{% resource_link 52166d73-6e4e-5e12-6d64-5ad6a0c7a9f2 "Previous" %}} | {{% resource_link 6ef6b2ca-b9e3-bcd5-64f3-355af26ca131 "Next" %}} »
 
 {{< resource 27bb85b7-e938-ff46-dc6f-2bcb42909dc5 >}}
 
-« {{< resource_link 52166d73-6e4e-5e12-6d64-5ad6a0c7a9f2 "Previous" >}} | {{< resource_link 6ef6b2ca-b9e3-bcd5-64f3-355af26ca131 "Next" >}} »
+« {{% resource_link 52166d73-6e4e-5e12-6d64-5ad6a0c7a9f2 "Previous" %}} | {{% resource_link 6ef6b2ca-b9e3-bcd5-64f3-355af26ca131 "Next" %}} »

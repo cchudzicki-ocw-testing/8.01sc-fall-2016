@@ -9,8 +9,8 @@ title: 8.3 Angular Velocity
 uid: 5d290005-eb1b-3ec2-03b4-ec8540d3d163
 ---
 
-« {{< resource_link bb452cf2-6f64-0545-fd86-309bbe4c1e09 "Previous" >}} | {{< resource_link dfa7cfb2-5de4-0721-4c7b-99d451dc900f "Next" >}} »
+« {{% resource_link bb452cf2-6f64-0545-fd86-309bbe4c1e09 "Previous" %}} | {{% resource_link dfa7cfb2-5de4-0721-4c7b-99d451dc900f "Next" %}} »
 
 {{< resource 63bca337-c420-fd41-0970-b692ebffc265 >}}
 
-« {{< resource_link bb452cf2-6f64-0545-fd86-309bbe4c1e09 "Previous" >}} | {{< resource_link dfa7cfb2-5de4-0721-4c7b-99d451dc900f "Next" >}} »
+« {{% resource_link bb452cf2-6f64-0545-fd86-309bbe4c1e09 "Previous" %}} | {{% resource_link dfa7cfb2-5de4-0721-4c7b-99d451dc900f "Next" %}} »

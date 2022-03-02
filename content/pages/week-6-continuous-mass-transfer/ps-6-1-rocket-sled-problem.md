@@ -9,7 +9,7 @@ title: PS.6.1 Rocket Sled Problem
 uid: ce8e09d4-807a-9422-57ee-603eabb68035
 ---
 
-« {{< resource_link ab5149d9-59c5-d77f-cf43-b183d041c866 "Previous" >}} | {{< resource_link a58a3ece-6fdc-129d-7564-5ca98d437fce "Next" >}} »
+« {{% resource_link ab5149d9-59c5-d77f-cf43-b183d041c866 "Previous" %}} | {{% resource_link a58a3ece-6fdc-129d-7564-5ca98d437fce "Next" %}} »
 
 A rocket sled can eject gas backwards or forwards at a speed \\(\\displaystyle u\\) relative to the sled. The initial mass of the fuel in the sled is equal to dry mass of the sled, \\(\\displaystyle m\_0\\). At \\(\\displaystyle t=0\\) the rocket sled has speed \\(\\displaystyle v\_0\\) and starts to eject fuel in the forward direction in order to slow down. You may ignore air resistance. You may treat \\(\\displaystyle u\\) as a given constant in the following questions.
 
@@ -36,4 +36,4 @@ Rocket Sled - Solve for Initial Velocity
 
 {{< resource 743dc3c8-f229-f39a-9e3d-4f5f740f3ee0 >}}
 
-« {{< resource_link ab5149d9-59c5-d77f-cf43-b183d041c866 "Previous" >}} | {{< resource_link a58a3ece-6fdc-129d-7564-5ca98d437fce "Next" >}} »
+« {{% resource_link ab5149d9-59c5-d77f-cf43-b183d041c866 "Previous" %}} | {{% resource_link a58a3ece-6fdc-129d-7564-5ca98d437fce "Next" %}} »

@@ -9,7 +9,7 @@ title: '8.2 Circular Motion: Position and Velocity Vectors'
 uid: bb452cf2-6f64-0545-fd86-309bbe4c1e09
 ---
 
-« {{< resource_link b3916d89-3c89-2c76-6d33-7a22583b3bcb "Previous" >}} | {{< resource_link 5d290005-eb1b-3ec2-03b4-ec8540d3d163 "Next" >}} »
+« {{% resource_link b3916d89-3c89-2c76-6d33-7a22583b3bcb "Previous" %}} | {{% resource_link 5d290005-eb1b-3ec2-03b4-ec8540d3d163 "Next" %}} »
 
 Chain Rule of Differentiation
 -----------------------------
@@ -31,4 +31,4 @@ One way to measure an angle is in radians. A full circle has \\(2\\pi\\) radians
 
 {{< resource 101107a8-787b-ebc7-8634-f0acc04e18c8 >}}
 
-« {{< resource_link b3916d89-3c89-2c76-6d33-7a22583b3bcb "Previous" >}} | {{< resource_link 5d290005-eb1b-3ec2-03b4-ec8540d3d163 "Next" >}} »
+« {{% resource_link b3916d89-3c89-2c76-6d33-7a22583b3bcb "Previous" %}} | {{% resource_link 5d290005-eb1b-3ec2-03b4-ec8540d3d163 "Next" %}} »

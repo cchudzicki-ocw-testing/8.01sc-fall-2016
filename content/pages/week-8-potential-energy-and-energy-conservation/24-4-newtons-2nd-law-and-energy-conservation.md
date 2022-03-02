@@ -9,8 +9,8 @@ title: 24.4 Newton's 2nd Law and Energy Conservation
 uid: da2be0d8-474e-82d8-3048-ae3e1a948f86
 ---
 
-« {{< resource_link 8f01bc6e-120f-eb7d-e6da-20c90a305b73 "Previous" >}} | {{< resource_link 7764cf48-40ca-6295-a596-52406638f492 "Next" >}} »
+« {{% resource_link 8f01bc6e-120f-eb7d-e6da-20c90a305b73 "Previous" %}} | {{% resource_link 7764cf48-40ca-6295-a596-52406638f492 "Next" %}} »
 
 {{< resource fc2aa8c1-28fb-ea32-d73c-e6596e60c859 >}}
 
-« {{< resource_link 8f01bc6e-120f-eb7d-e6da-20c90a305b73 "Previous" >}} | {{< resource_link 7764cf48-40ca-6295-a596-52406638f492 "Next" >}} »
+« {{% resource_link 8f01bc6e-120f-eb7d-e6da-20c90a305b73 "Previous" %}} | {{% resource_link 7764cf48-40ca-6295-a596-52406638f492 "Next" %}} »

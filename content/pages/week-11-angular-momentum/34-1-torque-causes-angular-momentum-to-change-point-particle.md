@@ -9,8 +9,8 @@ title: 34.1 Torque Causes Angular Momentum to Change - Point Particle
 uid: 764c8090-e1bb-ac38-6446-3719891094c3
 ---
 
-« {{< resource_link 83e25719-052f-e7f0-5c93-414bc8930ed2 "Previous" >}} | {{< resource_link b3b10b2d-8725-4424-ffb8-e1e7418b0bfd "Next" >}} »
+« {{% resource_link 83e25719-052f-e7f0-5c93-414bc8930ed2 "Previous" %}} | {{% resource_link b3b10b2d-8725-4424-ffb8-e1e7418b0bfd "Next" %}} »
 
 {{< resource 7333473d-9126-1775-234e-9a0ab5874a84 >}}
 
-« {{< resource_link 83e25719-052f-e7f0-5c93-414bc8930ed2 "Previous" >}} | {{< resource_link b3b10b2d-8725-4424-ffb8-e1e7418b0bfd "Next" >}} »
+« {{% resource_link 83e25719-052f-e7f0-5c93-414bc8930ed2 "Previous" %}} | {{% resource_link b3b10b2d-8725-4424-ffb8-e1e7418b0bfd "Next" %}} »

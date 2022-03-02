@@ -9,7 +9,7 @@ title: 31.6 Non-Slip Condition
 uid: 9426040b-a330-30d7-59a1-1326ef067c79
 ---
 
-« {{< resource_link a8b95d55-7ec9-7701-38ba-9fcdf3e90149 "Previous" >}} | {{< resource_link 31176412-23be-cbd3-e6d5-c694174cdbcf "Next" >}} »
+« {{% resource_link a8b95d55-7ec9-7701-38ba-9fcdf3e90149 "Previous" %}} | {{% resource_link 31176412-23be-cbd3-e6d5-c694174cdbcf "Next" %}} »
 
 Constraints for Rotational Motion about a Fixed Axis
 ----------------------------------------------------
@@ -37,4 +37,4 @@ After taking the derivative with respect to time, the acceleration of the block 
 
 \\(\\displaystyle a = R \\alpha\\)
 
-« {{< resource_link a8b95d55-7ec9-7701-38ba-9fcdf3e90149 "Previous" >}} | {{< resource_link 31176412-23be-cbd3-e6d5-c694174cdbcf "Next" >}} »
+« {{% resource_link a8b95d55-7ec9-7701-38ba-9fcdf3e90149 "Previous" %}} | {{% resource_link 31176412-23be-cbd3-e6d5-c694174cdbcf "Next" %}} »

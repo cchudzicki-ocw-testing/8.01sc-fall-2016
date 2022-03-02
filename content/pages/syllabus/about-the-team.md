@@ -9,7 +9,7 @@ title: About the Team
 uid: 63b200b4-6b93-d532-b387-9a3d37067265
 ---
 
-« {{< resource_link 8488bde4-6909-b726-a411-abeee039ef1a "Previous" >}} | {{< resource_link 8897a3b7-567f-b552-81b3-2f8a1de7b53b "Next" >}} »
+« {{% resource_link 8488bde4-6909-b726-a411-abeee039ef1a "Previous" %}} | {{% resource_link 8897a3b7-567f-b552-81b3-2f8a1de7b53b "Next" %}} »
 
 Deepto Chakrabarty
 ------------------
@@ -151,4 +151,4 @@ Anna Frebel is the Silverman ('68) Family Career Development Professor and Assis
 
 {{< tableclose >}}
 
-« {{< resource_link 8488bde4-6909-b726-a411-abeee039ef1a "Previous" >}} | {{< resource_link 8897a3b7-567f-b552-81b3-2f8a1de7b53b "Next" >}} »
+« {{% resource_link 8488bde4-6909-b726-a411-abeee039ef1a "Previous" %}} | {{% resource_link 8897a3b7-567f-b552-81b3-2f8a1de7b53b "Next" %}} »

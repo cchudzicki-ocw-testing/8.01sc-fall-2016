@@ -9,7 +9,7 @@ title: Problem Set 1
 uid: bcc90f49-f292-0609-8ad9-efd22acf9676
 ---
 
-« {{< resource_link e0c2768c-0836-8a33-b6f6-5ec2b2d68659 "Previous" >}} | {{< resource_link cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329 "Next" >}} »
+« {{% resource_link e0c2768c-0836-8a33-b6f6-5ec2b2d68659 "Previous" %}} | {{% resource_link cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329 "Next" %}} »
 
 Problem Set 1 contains the following problems:
 
@@ -19,6 +19,6 @@ Problem Set 1 contains the following problems:
 4.  Throw and Catch
 5.  Vertical Collision
 
-*   {{< resource_link 96231b21-bccf-fc0c-17c7-d98629a52eb2 "Problem Set 1 (PDF)" >}}
+*   {{% resource_link 96231b21-bccf-fc0c-17c7-d98629a52eb2 "Problem Set 1 (PDF)" %}}
 
-« {{< resource_link e0c2768c-0836-8a33-b6f6-5ec2b2d68659 "Previous" >}} | {{< resource_link cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329 "Next" >}} »
+« {{% resource_link e0c2768c-0836-8a33-b6f6-5ec2b2d68659 "Previous" %}} | {{% resource_link cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329 "Next" %}} »

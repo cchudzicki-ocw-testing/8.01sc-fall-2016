@@ -9,8 +9,8 @@ title: DD.2.2 Relative Velocity is Independent of Reference Frame
 uid: 6dbad577-bacd-b1f8-1fd0-1be0efbe3ccf
 ---
 
-« {{< resource_link 07d691dc-35df-da5c-b795-db9825432f91 "Previous" >}} | {{< resource_link 97f0d15b-d57a-af51-51bf-26eb9fbf5004 "Next" >}} »
+« {{% resource_link 07d691dc-35df-da5c-b795-db9825432f91 "Previous" %}} | {{% resource_link 97f0d15b-d57a-af51-51bf-26eb9fbf5004 "Next" %}} »
 
 {{< resource 84c7a1bf-8ef3-ec96-bee1-77e70b8e7411 >}}
 
-« {{< resource_link 07d691dc-35df-da5c-b795-db9825432f91 "Previous" >}} | {{< resource_link 97f0d15b-d57a-af51-51bf-26eb9fbf5004 "Next" >}} »
+« {{% resource_link 07d691dc-35df-da5c-b795-db9825432f91 "Previous" %}} | {{% resource_link 97f0d15b-d57a-af51-51bf-26eb9fbf5004 "Next" %}} »

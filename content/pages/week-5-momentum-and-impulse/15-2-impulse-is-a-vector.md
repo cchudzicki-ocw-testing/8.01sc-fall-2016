@@ -9,8 +9,8 @@ title: 15.2 Impulse is a Vector
 uid: b216375a-21c7-e9bd-51b4-9883ed386898
 ---
 
-« {{< resource_link 82d8bb71-3390-c984-2d1c-66e939cfdfdd "Previous" >}} | {{< resource_link 8eb0ed0a-f63c-549e-dcc9-c64765a58d66 "Next" >}} »
+« {{% resource_link 82d8bb71-3390-c984-2d1c-66e939cfdfdd "Previous" %}} | {{% resource_link 8eb0ed0a-f63c-549e-dcc9-c64765a58d66 "Next" %}} »
 
 {{< resource 8c6a588d-d26d-88cf-0706-122a55e20c2b >}}
 
-« {{< resource_link 82d8bb71-3390-c984-2d1c-66e939cfdfdd "Previous" >}} | {{< resource_link 8eb0ed0a-f63c-549e-dcc9-c64765a58d66 "Next" >}} »
+« {{% resource_link 82d8bb71-3390-c984-2d1c-66e939cfdfdd "Previous" %}} | {{% resource_link 8eb0ed0a-f63c-549e-dcc9-c64765a58d66 "Next" %}} »

@@ -9,7 +9,7 @@ title: 37.4 Summary of Angular Momentum and Kinetic Energy
 uid: b3f85755-e9b8-b768-41cb-cdf53171cfc6
 ---
 
-« {{< resource_link 000aca2a-6673-bebe-bca1-cca975a696f5 "Previous" >}} | {{< resource_link d1c38e53-0c20-d699-f2e8-3e7f0242c713 "Next" >}} »
+« {{% resource_link 000aca2a-6673-bebe-bca1-cca975a696f5 "Previous" %}} | {{% resource_link d1c38e53-0c20-d699-f2e8-3e7f0242c713 "Next" %}} »
 
 **Fixed Axis Rotation vs. Translation and Rotation**
 
@@ -62,4 +62,4 @@ For the same reason as before, this is true because the speed of the center of m
 
 To avoid confusion, we advise you to always write \\(\\vec{L}\_S = I\_S\\vec{\\omega}\\) and \\(K = \\frac{1}{2}I\_S\\omega^2\\) for the case of fixed axis rotation.
 
-« {{< resource_link 000aca2a-6673-bebe-bca1-cca975a696f5 "Previous" >}} | {{< resource_link d1c38e53-0c20-d699-f2e8-3e7f0242c713 "Next" >}} »
+« {{% resource_link 000aca2a-6673-bebe-bca1-cca975a696f5 "Previous" %}} | {{% resource_link d1c38e53-0c20-d699-f2e8-3e7f0242c713 "Next" %}} »

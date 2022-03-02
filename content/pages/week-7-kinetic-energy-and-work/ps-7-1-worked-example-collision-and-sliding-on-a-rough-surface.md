@@ -9,7 +9,7 @@ title: PS.7.1 Worked Example - Collision and Sliding on a Rough Surface
 uid: 1a85f658-a6b6-19d1-7082-201370c974dd
 ---
 
-« {{< resource_link ad04436f-146e-97c2-3588-3711b1ac5558 "Previous" >}} | {{< resource_link 198483cf-4835-3e5d-6a38-5333ab778504 "Next" >}} »
+« {{% resource_link ad04436f-146e-97c2-3588-3711b1ac5558 "Previous" %}} | {{% resource_link 198483cf-4835-3e5d-6a38-5333ab778504 "Next" %}} »
 
 {{< resource e11c8a5b-acd3-aece-5290-c369d8582292 >}}
 
@@ -17,4 +17,4 @@ Block 1 of mass \\(\\displaystyle 3m\\) is sliding along a frictionless horizont
 
 {{< resource b3636e25-f8a6-1312-3316-8d0a184f1c31 >}}
 
-« {{< resource_link ad04436f-146e-97c2-3588-3711b1ac5558 "Previous" >}} | {{< resource_link 198483cf-4835-3e5d-6a38-5333ab778504 "Next" >}} »
+« {{% resource_link ad04436f-146e-97c2-3588-3711b1ac5558 "Previous" %}} | {{% resource_link 198483cf-4835-3e5d-6a38-5333ab778504 "Next" %}} »

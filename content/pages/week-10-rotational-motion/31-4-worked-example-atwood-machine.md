@@ -9,7 +9,7 @@ title: 31.4 Worked Example - Atwood Machine
 uid: 770f89d7-73c1-236d-f48f-673fd378e5a4
 ---
 
-« {{< resource_link 4c4b7dff-9b7b-8e45-58c2-0037e21a15d8 "Previous" >}} | {{< resource_link a8b95d55-7ec9-7701-38ba-9fcdf3e90149 "Next" >}} »
+« {{% resource_link 4c4b7dff-9b7b-8e45-58c2-0037e21a15d8 "Previous" %}} | {{% resource_link a8b95d55-7ec9-7701-38ba-9fcdf3e90149 "Next" %}} »
 
 {{< resource 0310ea72-3271-6c47-b2f2-d1323a9d4a4e >}}
 
@@ -19,4 +19,4 @@ Assume \\(m\_2> m\_1\\). Find the acceleration of the objects.
 
 {{< resource 837809bf-5979-cd25-70bd-ca0a466367f9 >}}
 
-« {{< resource_link 4c4b7dff-9b7b-8e45-58c2-0037e21a15d8 "Previous" >}} | {{< resource_link a8b95d55-7ec9-7701-38ba-9fcdf3e90149 "Next" >}} »
+« {{% resource_link 4c4b7dff-9b7b-8e45-58c2-0037e21a15d8 "Previous" %}} | {{% resource_link a8b95d55-7ec9-7701-38ba-9fcdf3e90149 "Next" %}} »

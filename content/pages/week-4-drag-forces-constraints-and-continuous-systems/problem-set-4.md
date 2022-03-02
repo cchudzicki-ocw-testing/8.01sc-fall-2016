@@ -9,7 +9,7 @@ title: Problem Set 4
 uid: b9bf868d-daf0-7c06-6058-0d06be825a09
 ---
 
-« {{< resource_link cc32eace-0df4-1367-1aa6-9a03a79b0c59 "Previous" >}} | {{< resource_link c1168b62-a27d-cf9f-3fe2-550af1ed72f5 "Next" >}} »
+« {{% resource_link cc32eace-0df4-1367-1aa6-9a03a79b0c59 "Previous" %}} | {{% resource_link c1168b62-a27d-cf9f-3fe2-550af1ed72f5 "Next" %}} »
 
 Problem Set 4 contains the following problems:
 
@@ -20,6 +20,6 @@ Problem Set 4 contains the following problems:
 5.  Drag Force at Low Speeds
 6.  Two Pulleys, Two Strings and Two Blocks
 
-*   {{< resource_link ff43aae2-332b-3882-ac4a-4727301cec56 "Problem Set 4 (PDF)" >}}
+*   {{% resource_link ff43aae2-332b-3882-ac4a-4727301cec56 "Problem Set 4 (PDF)" %}}
 
-« {{< resource_link cc32eace-0df4-1367-1aa6-9a03a79b0c59 "Previous" >}} | {{< resource_link c1168b62-a27d-cf9f-3fe2-550af1ed72f5 "Next" >}} »
+« {{% resource_link cc32eace-0df4-1367-1aa6-9a03a79b0c59 "Previous" %}} | {{% resource_link c1168b62-a27d-cf9f-3fe2-550af1ed72f5 "Next" %}} »

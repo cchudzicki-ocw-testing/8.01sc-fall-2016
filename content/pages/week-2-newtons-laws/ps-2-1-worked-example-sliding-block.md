@@ -9,7 +9,7 @@ title: 'PS.2.1 Worked Example: Sliding Block'
 uid: 049199c2-b750-bf9b-0743-89e653cf5020
 ---
 
-« {{< resource_link 9645d508-f2f5-91c3-d286-68b53745d928 "Previous" >}} | {{< resource_link 00aef642-3d37-f1e0-8db3-ced31e4003c0 "Next" >}} »
+« {{% resource_link 9645d508-f2f5-91c3-d286-68b53745d928 "Previous" %}} | {{% resource_link 00aef642-3d37-f1e0-8db3-ced31e4003c0 "Next" %}} »
 
 {{< resource e7c3c8b9-4d99-5cd3-d77c-1628abb04621 >}}
 
@@ -21,4 +21,4 @@ A block of mass \\(\\displaystyle m\\) is sliding down an inclined plane of angl
 
 {{< resource 7c680db7-f47d-fbb7-9827-14bcd1b39e90 >}}
 
-« {{< resource_link 9645d508-f2f5-91c3-d286-68b53745d928 "Previous" >}} | {{< resource_link 00aef642-3d37-f1e0-8db3-ced31e4003c0 "Next" >}} »
+« {{% resource_link 9645d508-f2f5-91c3-d286-68b53745d928 "Previous" %}} | {{% resource_link 00aef642-3d37-f1e0-8db3-ced31e4003c0 "Next" %}} »

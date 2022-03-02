@@ -9,7 +9,7 @@ title: PS.6.2 Snowplow Problem
 uid: a58a3ece-6fdc-129d-7564-5ca98d437fce
 ---
 
-« {{< resource_link ce8e09d4-807a-9422-57ee-603eabb68035 "Previous" >}} | {{< resource_link e75cbe56-57dc-1b51-c934-c400a80d903c "Next" >}} »
+« {{% resource_link ce8e09d4-807a-9422-57ee-603eabb68035 "Previous" %}} | {{% resource_link e75cbe56-57dc-1b51-c934-c400a80d903c "Next" %}} »
 
 Snow of density \\(\\displaystyle \\rho\\) covers a road to a uniform depth of \\(\\displaystyle D\\) meters. A snowplowing truck of mass \\(\\displaystyle M\\) starts clearing the road at \\(\\displaystyle t = 0\\) at an initial velocity \\(\\displaystyle v\_0\\). The contact between the tires and the road applies a constant force \\(\\displaystyle F\_0\\) in the forward direction. The truck's subsequent velocity depends on time as it clears a path of width \\(\\displaystyle W\\) through the snow. The snow, after coming momentarily to rest relative to the truck, is ejected sideways, perpendicular to the truck.
 
@@ -21,4 +21,4 @@ Snow of density \\(\\displaystyle \\rho\\) covers a road to a uniform depth of \
 
 {{< resource 267cbedb-874f-a028-55cc-d677cdf8e7db >}}
 
-« {{< resource_link ce8e09d4-807a-9422-57ee-603eabb68035 "Previous" >}} | {{< resource_link e75cbe56-57dc-1b51-c934-c400a80d903c "Next" >}} »
+« {{% resource_link ce8e09d4-807a-9422-57ee-603eabb68035 "Previous" %}} | {{% resource_link e75cbe56-57dc-1b51-c934-c400a80d903c "Next" %}} »

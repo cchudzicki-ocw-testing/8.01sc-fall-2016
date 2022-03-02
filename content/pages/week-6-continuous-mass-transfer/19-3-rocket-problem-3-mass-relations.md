@@ -9,8 +9,8 @@ title: 19.3 Rocket Problem 3 - Mass Relations
 uid: 78a84152-5b28-227b-c8d0-8716d5847434
 ---
 
-« {{< resource_link ed163823-1351-9f3e-c9dd-75d373891890 "Previous" >}} | {{< resource_link e1a8df04-cee1-4060-755e-4242aee931be "Next" >}} »
+« {{% resource_link ed163823-1351-9f3e-c9dd-75d373891890 "Previous" %}} | {{% resource_link e1a8df04-cee1-4060-755e-4242aee931be "Next" %}} »
 
 {{< resource e8c0405d-115b-92c5-3c3f-1aeefa39b170 >}}
 
-« {{< resource_link ed163823-1351-9f3e-c9dd-75d373891890 "Previous" >}} | {{< resource_link e1a8df04-cee1-4060-755e-4242aee931be "Next" >}} »
+« {{% resource_link ed163823-1351-9f3e-c9dd-75d373891890 "Previous" %}} | {{% resource_link e1a8df04-cee1-4060-755e-4242aee931be "Next" %}} »

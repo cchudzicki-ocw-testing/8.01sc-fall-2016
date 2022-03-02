@@ -9,7 +9,7 @@ title: 'PS.2.2 Worked Example: Pushing Stacked Blocks'
 uid: 00aef642-3d37-f1e0-8db3-ced31e4003c0
 ---
 
-« {{< resource_link 049199c2-b750-bf9b-0743-89e653cf5020 "Previous" >}} | {{< resource_link 490e27c7-9c4c-14bb-971b-8ce6ece1d220 "Next" >}} »
+« {{% resource_link 049199c2-b750-bf9b-0743-89e653cf5020 "Previous" %}} | {{% resource_link 490e27c7-9c4c-14bb-971b-8ce6ece1d220 "Next" %}} »
 
 Consider two blocks that are resting one on top of the other. The lower block has mass \\(\\displaystyle m\_1\\) and is resting on a surface. The upper block has mass \\(\\displaystyle m\_2\<m\_1\\) . Suppose the coefficient of static friction between the blocks is \\(\\displaystyle \\mu \_ s\\) . A horizontal force of magnitude \\(\\displaystyle F\\) is applied to block 1 as shhown.
 
@@ -42,4 +42,4 @@ Worked Example - Stacked Blocks - Choosing the System of 2 Blocks Together
 
 {{< resource af893009-d700-7661-a086-1bed13a33e68 >}}
 
-« {{< resource_link 049199c2-b750-bf9b-0743-89e653cf5020 "Previous" >}} | {{< resource_link 490e27c7-9c4c-14bb-971b-8ce6ece1d220 "Next" >}} »
+« {{% resource_link 049199c2-b750-bf9b-0743-89e653cf5020 "Previous" %}} | {{% resource_link 490e27c7-9c4c-14bb-971b-8ce6ece1d220 "Next" %}} »

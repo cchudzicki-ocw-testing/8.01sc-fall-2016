@@ -9,8 +9,8 @@ title: 19.5 Rocket Problem 5 - Thrust and External Forces
 uid: 1e93fb9c-c4cd-c0a7-10fe-6f367143cf5c
 ---
 
-« {{< resource_link e1a8df04-cee1-4060-755e-4242aee931be "Previous" >}} | {{< resource_link 9061706b-ad48-d753-7d6f-2f4413c5bf77 "Next" >}} »
+« {{% resource_link e1a8df04-cee1-4060-755e-4242aee931be "Previous" %}} | {{% resource_link 9061706b-ad48-d753-7d6f-2f4413c5bf77 "Next" %}} »
 
 {{< resource 869731cc-1338-4df9-c4d0-f39d871f2ed9 >}}
 
-« {{< resource_link e1a8df04-cee1-4060-755e-4242aee931be "Previous" >}} | {{< resource_link 9061706b-ad48-d753-7d6f-2f4413c5bf77 "Next" >}} »
+« {{% resource_link e1a8df04-cee1-4060-755e-4242aee931be "Previous" %}} | {{% resource_link 9061706b-ad48-d753-7d6f-2f4413c5bf77 "Next" %}} »

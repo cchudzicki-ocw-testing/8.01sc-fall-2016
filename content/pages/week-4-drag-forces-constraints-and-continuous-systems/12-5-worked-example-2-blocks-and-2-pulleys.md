@@ -9,7 +9,7 @@ title: 12.5 Worked Example - 2 Blocks and 2 Pulleys
 uid: f748652c-b4c5-1b41-6e16-e3ed086b9a18
 ---
 
-« {{< resource_link 4aced5bc-0a51-3981-a267-6d105738aec6 "Previous" >}} | {{< resource_link 869e8587-bad0-5bba-6781-da19b701a57a "Next" >}} »
+« {{% resource_link 4aced5bc-0a51-3981-a267-6d105738aec6 "Previous" %}} | {{% resource_link 869e8587-bad0-5bba-6781-da19b701a57a "Next" %}} »
 
 {{< resource 79493344-7d4b-58e6-d2e6-5df140bc0204 >}}
 
@@ -21,4 +21,4 @@ Blocks 1 and 2 lie on a frictionless surface and are connected by three massless
 
 {{< resource 51dbcbd2-b834-29c7-f49b-7cc8086ca306 >}}
 
-« {{< resource_link 4aced5bc-0a51-3981-a267-6d105738aec6 "Previous" >}} | {{< resource_link 869e8587-bad0-5bba-6781-da19b701a57a "Next" >}} »
+« {{% resource_link 4aced5bc-0a51-3981-a267-6d105738aec6 "Previous" %}} | {{% resource_link 869e8587-bad0-5bba-6781-da19b701a57a "Next" %}} »

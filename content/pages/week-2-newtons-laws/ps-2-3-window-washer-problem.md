@@ -9,7 +9,7 @@ title: PS.2.3 Window Washer Problem
 uid: 490e27c7-9c4c-14bb-971b-8ce6ece1d220
 ---
 
-« {{< resource_link 00aef642-3d37-f1e0-8db3-ced31e4003c0 "Previous" >}} | {{< resource_link 8ccbac1b-73cb-9336-f306-7bd24cd30b21 "Next" >}} »
+« {{% resource_link 00aef642-3d37-f1e0-8db3-ced31e4003c0 "Previous" %}} | {{% resource_link 8ccbac1b-73cb-9336-f306-7bd24cd30b21 "Next" %}} »
 
 {{< resource 8795a8d9-c0b5-0bce-53c1-01ec09dd4356 >}}
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -50,4 +50,4 @@ Window Washer Solution
 
 {{< resource b04dac83-2e14-6064-9161-7bcefaab013d >}}
 
-« {{< resource_link 00aef642-3d37-f1e0-8db3-ced31e4003c0 "Previous" >}} | {{< resource_link 8ccbac1b-73cb-9336-f306-7bd24cd30b21 "Next" >}} »
+« {{% resource_link 00aef642-3d37-f1e0-8db3-ced31e4003c0 "Previous" %}} | {{% resource_link 8ccbac1b-73cb-9336-f306-7bd24cd30b21 "Next" %}} »

@@ -9,7 +9,7 @@ title: 34.5 Worked Example - Particle Hits Pivoted Ring
 uid: fd5621ac-f9af-8265-912d-22db4bdfad0a
 ---
 
-« {{< resource_link 1453ead1-4cf5-1b67-9b6f-bbde49dd2fe7 "Previous" >}} | {{< resource_link b8ea2fe1-fcf0-283a-b156-028db7d562eb "Next" >}} »
+« {{% resource_link 1453ead1-4cf5-1b67-9b6f-bbde49dd2fe7 "Previous" %}} | {{% resource_link b8ea2fe1-fcf0-283a-b156-028db7d562eb "Next" %}} »
 
 A rigid ring of radius \\(\\displaystyle R\\) and mass \\(\\displaystyle m\_1\\) is lying on a horizontal frictionless table and pivoted at the point \\(\\displaystyle P\\). The figure is an overhead view, gravity points into the screen. A point-like object of mass \\(\\displaystyle m\_2\\) is moving to the right with speed \\(\\displaystyle v\_ i\\). It collides and sticks to the ring at point \\(\\displaystyle A\\) on the ring as shown in the figure. After the collision, the particle sticks to the ring and both objects rotate together counterclockwise about the pivot point. The angular velocity is pointing out of the page with magnitude \\(\\displaystyle \\omega \_ f\\).
 
@@ -31,4 +31,4 @@ The mechanical energy is constant.
 
 {{< resource 710e6a3e-a4ef-f053-162b-c280f87e839b >}}
 
-« {{< resource_link 1453ead1-4cf5-1b67-9b6f-bbde49dd2fe7 "Previous" >}} | {{< resource_link b8ea2fe1-fcf0-283a-b156-028db7d562eb "Next" >}} »
+« {{% resource_link 1453ead1-4cf5-1b67-9b6f-bbde49dd2fe7 "Previous" %}} | {{% resource_link b8ea2fe1-fcf0-283a-b156-028db7d562eb "Next" %}} »

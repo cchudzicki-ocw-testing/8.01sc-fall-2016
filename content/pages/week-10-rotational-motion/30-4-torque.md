@@ -9,8 +9,8 @@ title: 30.4 Torque
 uid: 5da07d68-a569-6eb3-4f9b-c29bd9f1d4d3
 ---
 
-« {{< resource_link b640a0ea-ed70-f247-156d-394fb734286f "Previous" >}} | {{< resource_link 6cb6984b-909b-e4a5-2667-97f44b85b82e "Next" >}} »
+« {{% resource_link b640a0ea-ed70-f247-156d-394fb734286f "Previous" %}} | {{% resource_link 6cb6984b-909b-e4a5-2667-97f44b85b82e "Next" %}} »
 
 {{< resource b742cf25-eabf-c92f-ec3a-2d73debfdeb8 >}}
 
-« {{< resource_link b640a0ea-ed70-f247-156d-394fb734286f "Previous" >}} | {{< resource_link 6cb6984b-909b-e4a5-2667-97f44b85b82e "Next" >}} »
+« {{% resource_link b640a0ea-ed70-f247-156d-394fb734286f "Previous" %}} | {{% resource_link 6cb6984b-909b-e4a5-2667-97f44b85b82e "Next" %}} »

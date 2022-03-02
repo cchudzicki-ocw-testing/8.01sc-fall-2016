@@ -9,7 +9,7 @@ title: 33.1 Worked Example - Angular Momentum of 2 Rotating Point Particles
 uid: 4dda04ab-f172-a544-1f39-111d35ef45b3
 ---
 
-« {{< resource_link d7f63574-cced-76f6-9437-a22b7fb74dfb "Previous" >}} | {{< resource_link 9deac7e7-5b47-a11b-f557-26507f60685a "Next" >}} »
+« {{% resource_link d7f63574-cced-76f6-9437-a22b7fb74dfb "Previous" %}} | {{% resource_link 9deac7e7-5b47-a11b-f557-26507f60685a "Next" %}} »
 
 {{< resource e4e8dab4-de57-7443-1a6c-1f41791fca73 >}}
 
@@ -19,4 +19,4 @@ Calculate \\(\\displaystyle \\vec{L}\_ S\\), the angular momentum of the system 
 
 {{< resource 9b9126c9-a5f3-f0c1-90c4-67ddb75532b2 >}}
 
-« {{< resource_link d7f63574-cced-76f6-9437-a22b7fb74dfb "Previous" >}} | {{< resource_link 9deac7e7-5b47-a11b-f557-26507f60685a "Next" >}} »
+« {{% resource_link d7f63574-cced-76f6-9437-a22b7fb74dfb "Previous" %}} | {{% resource_link 9deac7e7-5b47-a11b-f557-26507f60685a "Next" %}} »

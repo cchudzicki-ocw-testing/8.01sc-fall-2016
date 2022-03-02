@@ -9,8 +9,8 @@ title: 31.2 Internal Torques Cancel in Pairs
 uid: 4fe8b2df-f905-edca-0bf0-6b0f81f898b3
 ---
 
-« {{< resource_link 8aeb3db6-4960-77bb-7575-8a2fd60b6c7f "Previous" >}} | {{< resource_link 4c4b7dff-9b7b-8e45-58c2-0037e21a15d8 "Next" >}} »
+« {{% resource_link 8aeb3db6-4960-77bb-7575-8a2fd60b6c7f "Previous" %}} | {{% resource_link 4c4b7dff-9b7b-8e45-58c2-0037e21a15d8 "Next" %}} »
 
 {{< resource 492aeb2b-206f-979d-5823-d29c35c7cf42 >}}
 
-« {{< resource_link 8aeb3db6-4960-77bb-7575-8a2fd60b6c7f "Previous" >}} | {{< resource_link 4c4b7dff-9b7b-8e45-58c2-0037e21a15d8 "Next" >}} »
+« {{% resource_link 8aeb3db6-4960-77bb-7575-8a2fd60b6c7f "Previous" %}} | {{% resource_link 4c4b7dff-9b7b-8e45-58c2-0037e21a15d8 "Next" %}} »

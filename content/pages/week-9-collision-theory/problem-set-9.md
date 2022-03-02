@@ -9,7 +9,7 @@ title: Problem Set 9
 uid: 40038e11-5d10-2264-d181-2356238564ec
 ---
 
-« {{< resource_link 4f7d82e5-73dd-c5e1-2a96-aef184e27ed2 "Previous" >}} | {{< resource_link 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47 "Next" >}} »
+« {{% resource_link 4f7d82e5-73dd-c5e1-2a96-aef184e27ed2 "Previous" %}} | {{% resource_link 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47 "Next" %}} »
 
 Problem Set 9 contains the following problems:
 
@@ -20,6 +20,6 @@ Problem Set 9 contains the following problems:
 5.  Bullet-Spring Collision
 6.  Elastic 2D Collision
 
-*   {{< resource_link aa4bd69b-a9ac-09a4-2a3d-75892d2c46c6 "Problem Set 9 (PDF)" >}}
+*   {{% resource_link aa4bd69b-a9ac-09a4-2a3d-75892d2c46c6 "Problem Set 9 (PDF)" %}}
 
-« {{< resource_link 4f7d82e5-73dd-c5e1-2a96-aef184e27ed2 "Previous" >}} | {{< resource_link 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47 "Next" >}} »
+« {{% resource_link 4f7d82e5-73dd-c5e1-2a96-aef184e27ed2 "Previous" %}} | {{% resource_link 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47 "Next" %}} »
