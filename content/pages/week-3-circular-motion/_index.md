@@ -5,7 +5,6 @@ ocw_type: CourseSection
 title: 'Week 3: Circular Motion'
 uid: 3c7d357c-bb95-e729-679b-539d23714ede
 ---
-
 « {{% resource_link 8ccbac1b-73cb-9336-f306-7bd24cd30b21 "Previous" %}} | {{% resource_link 467e5a37-cf4f-277f-b9e3-1ec984e101a8 "Next" %}} »
 
 Week 3: Circular Motion
@@ -38,7 +37,7 @@ Week 3: Circular Motion
 {{< anchor "Lesson_11" >}}{{< /anchor >}}Lesson 11: Newton's 2{{< sup "nd" >}} Law and Circular Motion
 ------------------------------------------------------------------------------------------------------
 
-*   {{% resource_link 7e23662a-3078-b1c8-b4f5-1d9c948bab03 "11.1 Newton's 2{{< sup \"nd\" %}} Law and Circular Motion" >}}
+*   {{% resource_link 7e23662a-3078-b1c8-b4f5-1d9c948bab03 "11.1 Newton's 2{{< sup \"nd\" >}} Law and Circular Motion" %}}
 *   {{% resource_link c71831d1-bf7e-ac4f-f0e0-21abe0cb6641 "11.2 Worked Example - Car on a Banked Turn" %}}
 *   {{% resource_link b7f96b05-7d10-13b3-d274-9791547f1e2f "11.3 Demo: Rotating Bucket" %}}
 
