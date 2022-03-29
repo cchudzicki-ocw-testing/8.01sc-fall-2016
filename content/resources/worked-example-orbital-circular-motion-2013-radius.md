@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Worked Example - Orbital Circular Motion \u2013 Radius"
 uid: 3359e0d6-e13e-b434-c801-bee9f9f86476
 video_files:
