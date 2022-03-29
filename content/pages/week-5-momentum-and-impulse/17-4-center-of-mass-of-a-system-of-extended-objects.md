@@ -1,6 +1,7 @@
 ---
 content_type: page
 draft: false
+parent_uid: c1168b62-a27d-cf9f-3fe2-550af1ed72f5
 title: 17.4 Center of Mass of a System of Extended Objects
 uid: e13c11c8-6d3e-4192-0377-32a634d2d58a
 ---
