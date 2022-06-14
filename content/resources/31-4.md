@@ -25,3 +25,4 @@ video_metadata:
 ---
 
 **Instructor:** Dr. Michelle Tomasik
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-01sc-classical-mechanics-fall-2016/b4d6332d50ae9091ff2185e80414d6de_gl9c9qJRqcM.pdf
+file: /courses/8-01sc-classical-mechanics-fall-2016/b4d6332d50ae9091ff2185e80414d6de_gl9c9qJRqcM.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
