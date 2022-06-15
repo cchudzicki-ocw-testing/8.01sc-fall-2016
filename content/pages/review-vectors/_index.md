@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains videos about Vectors to be reviewed before starting
+  the rest of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Review: Vectors'

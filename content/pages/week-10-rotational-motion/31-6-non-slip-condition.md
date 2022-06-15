@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains information about Non-Slip Condition.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 10: Rotational Motion'

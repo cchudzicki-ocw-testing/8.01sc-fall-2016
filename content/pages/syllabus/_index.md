@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes information about the course topics, readings,
+  assignments, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

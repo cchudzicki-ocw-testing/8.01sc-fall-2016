@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Change in the Kinetic Energy.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 9: Collision Theory'

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This page contains videos from Week 8: Potential Energy and Energy Conservation.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Week 8: Potential Energy and Energy Conservation'

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Work by a Non-Constant Force.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 7: Kinetic Energy and Work'

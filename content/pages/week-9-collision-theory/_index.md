@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This page contains videos from Week 9: Collision Theory.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Week 9: Collision Theory'

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains the video Potential Energy of Gravity near the Surface
+  of the Earth.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 8: Potential Energy and Energy Conservation'

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Conservation of Momentum.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 5: Momentum and Impulse'

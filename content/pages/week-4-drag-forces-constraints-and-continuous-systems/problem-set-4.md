@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a table of contents for Problem Set 4 and the Problem
+  Set 4 file.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 4: Drag Forces, Constraints and Continuous Systems'

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This page contains the video Gravity at the surface of the Earth: The
+  value of g.'
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 2: Newton''s Laws'

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Kinetic Energy of a Symmetric Object.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 11: Angular Momentum'

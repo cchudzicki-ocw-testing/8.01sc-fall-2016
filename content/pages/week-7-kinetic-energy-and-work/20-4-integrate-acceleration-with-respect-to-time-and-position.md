@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains the video Integrate Acceleration with Respect to Time
+  and Position.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 7: Kinetic Energy and Work'

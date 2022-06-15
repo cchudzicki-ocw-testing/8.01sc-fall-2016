@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Newton's Third Law.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 2: Newton''s Laws'

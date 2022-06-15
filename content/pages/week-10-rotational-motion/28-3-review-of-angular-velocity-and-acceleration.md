@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Review of Angular Velocity and Acceleration.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 10: Rotational Motion'

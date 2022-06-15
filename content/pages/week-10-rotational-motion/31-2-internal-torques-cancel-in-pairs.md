@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video 31.2 Internal Torques Cancel in Pairs.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 10: Rotational Motion'

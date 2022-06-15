@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This page contains videos from Week 12: Rotations and Translation -
+  Rolling.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Week 12: Rotations and Translation - Rolling'

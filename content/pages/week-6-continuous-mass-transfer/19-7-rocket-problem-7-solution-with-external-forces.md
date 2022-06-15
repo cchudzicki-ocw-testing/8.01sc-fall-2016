@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains the video Rocket Problem 7 - Solution with External
+  Forces.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 6: Continuous Mass Transfer'

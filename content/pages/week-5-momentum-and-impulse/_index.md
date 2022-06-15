@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This page contains videos from Week 5: Momentum and Impulse.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Week 5: Momentum and Impulse'

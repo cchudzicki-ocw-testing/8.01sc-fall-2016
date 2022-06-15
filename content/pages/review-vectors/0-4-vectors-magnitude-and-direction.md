@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video 0.4 Vectors - Magnitude and Direction.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Review: Vectors'

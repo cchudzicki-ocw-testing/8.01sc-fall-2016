@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains several videos on Worked Example - Orbital Circular
+  Motion.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 3: Circular Motion'

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Momentum of a System of Point Particles.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 5: Momentum and Impulse'

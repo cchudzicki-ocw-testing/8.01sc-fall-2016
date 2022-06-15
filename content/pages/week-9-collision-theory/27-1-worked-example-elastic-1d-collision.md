@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This page contains the video Worked Example: Elastic 1D Collision.'
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 9: Collision Theory'

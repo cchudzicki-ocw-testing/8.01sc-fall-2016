@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains the video Worked Example - Two Blocks and a Pulley
+  Using Energy.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 10: Rotational Motion'

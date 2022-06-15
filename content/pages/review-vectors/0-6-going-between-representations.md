@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video 0.6 Going Between Representations.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Review: Vectors'

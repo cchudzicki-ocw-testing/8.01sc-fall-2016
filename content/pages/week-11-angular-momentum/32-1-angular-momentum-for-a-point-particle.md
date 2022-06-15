@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Angular Momentum for a Point Particle.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 11: Angular Momentum'

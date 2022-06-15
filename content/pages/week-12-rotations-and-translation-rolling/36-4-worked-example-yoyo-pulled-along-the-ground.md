@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Worked Example - Yoyo Pulled Along the Ground.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 12: Rotations and Translation - Rolling'

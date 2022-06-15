@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains the video Coordinate Systems and Unit Vectors in 1D
+  Position Vector in 1D.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 1: Kinematics'

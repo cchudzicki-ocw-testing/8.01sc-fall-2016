@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains videos Work in 2D and 3D.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 7: Kinetic Energy and Work'

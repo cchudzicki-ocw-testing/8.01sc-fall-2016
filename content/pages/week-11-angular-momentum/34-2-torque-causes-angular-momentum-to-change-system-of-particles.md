@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains the video Torque Causes Angular Momentum to Change
+  - System of Particles.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 11: Angular Momentum'

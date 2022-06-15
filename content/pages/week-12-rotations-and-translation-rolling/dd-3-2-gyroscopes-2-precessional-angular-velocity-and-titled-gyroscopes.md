@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains the video Gyroscopes 2- Precessional Angular Velocity
+  and Titled Gyroscopes.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 12: Rotations and Translation - Rolling'

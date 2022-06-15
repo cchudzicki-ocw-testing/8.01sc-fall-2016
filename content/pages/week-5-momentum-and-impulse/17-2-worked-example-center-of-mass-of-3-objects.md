@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video  Worked Example - Center of Mass of 3 Objects.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 5: Momentum and Impulse'

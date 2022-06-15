@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Pulley Problem - Part II, Constraint Condition.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 4: Drag Forces, Constraints and Continuous Systems'

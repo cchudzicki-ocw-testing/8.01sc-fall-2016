@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains the video Worked Example - Wheel Rolling Without Slipping
+  Down Inclined Plane.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 12: Rotations and Translation - Rolling'

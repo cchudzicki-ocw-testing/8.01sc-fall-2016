@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a table of contents for Problem Set 8 and the Problem
+  Set 8 file.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 8: Potential Energy and Energy Conservation'

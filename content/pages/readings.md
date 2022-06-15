@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section the course textbook and reading assignments.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

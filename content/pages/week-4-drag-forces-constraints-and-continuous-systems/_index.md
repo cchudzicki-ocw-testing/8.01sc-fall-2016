@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This page contains videos from Week 4: Drag Forces, Constraints and
+  Continuous Systems.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Week 4: Drag Forces, Constraints and Continuous Systems'
