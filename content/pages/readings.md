@@ -24,7 +24,7 @@ READINGS
 {{% resource_link "f8da8d9b-f6a4-78e6-808b-aa7e6aa62306" "Vectors" "#Lesson_0" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- {{% resource_link "95bd8366-1331-0435-39a2-db024cf843d8" "Chapter 3 (PDF - 4.0MB)" %}}
+- Chapter 3
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 1: Kinematics**
