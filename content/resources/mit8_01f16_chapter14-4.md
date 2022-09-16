@@ -5,6 +5,7 @@ file: /courses/8-01sc-classical-mechanics-fall-2016/43385423c48e5588b5d8ff010114
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
