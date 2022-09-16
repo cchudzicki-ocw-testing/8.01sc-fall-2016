@@ -34,8 +34,8 @@ READINGS
 {{% resource_link "63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a" "1D Kinematics - Position and Velocity" "#Lesson_1" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Position and Displacement: {{% resource_link "1ddafe5a-ff82-e4b5-ba4f-f2bc0865ee9e" "Chapter 4.2 (PDF - 1.1MB)" %}}
-- Velocity: {{% resource_link "033df2b8-47cb-4d88-f2bd-9c904735b48b" "Chapter 4.3 (PDF - 1.5MB)" %}}
+- Position and Displacement: Section 4.2
+- Velocity: Section 4.3
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -43,9 +43,9 @@ READINGS
 {{% resource_link "63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a" "1D Kinematics - Acceleration" "#Lesson_2" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Acceleration: {{% resource_link "00614ce7-f3f9-6f9e-189d-16c019c916b4" "Chapter 4.4 (PDF)" %}}
-- Constant Acceleration: {{% resource_link "2ca43633-605f-37a5-1de1-af06aad672e4" "Chapter 4.5 (PDF - 1.7MB)" %}}
-- 1D Kinematics and Integration: {{% resource_link "c920214c-4adc-34c2-a8a4-33bc3b4dff3e" "Chapter 4.6 (PDF - 2.4MB)" %}}
+- Acceleration: Section 4.4
+- Constant Acceleration: Section 4.5
+- 1D Kinematics and Integration: Section 4.6
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -53,8 +53,8 @@ READINGS
 {{% resource_link "63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a" "2D Kinematics - Position, Velocity, and Acceleration" "#Lesson_3" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Vector Description of Motion in 2D: {{% resource_link "3761c51e-e836-e02e-bf80-31347233665c" "Chapter 5.1 (PDF)" %}}
-- Projectile Motion: {{% resource_link "796b8c57-5392-e081-439a-7d4f10f820be" "Chapter 5.2 (PDF - 2.7MB)" %}}
+- Vector Description of Motion in 2D: Section 5.1
+- Projectile Motion: Section 5.2
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 2: Newton's Laws**
@@ -64,7 +64,7 @@ READINGS
 {{% resource_link "cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329" "Newton's Laws of Motion" "#Lesson_4" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Newton's Laws of Motion: {{% resource_link "01b60a98-7b5d-ad12-32d0-f248a910dc2e" "Chapter 7.1–7.3 (PDF)" %}}
+- Newton's Laws of Motion: Sections 7.1–7.3
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -72,8 +72,8 @@ READINGS
 {{% resource_link "cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329" "Gravity" "#Lesson_5" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Force Laws: {{% resource_link "3f8df4fd-c94a-9a53-65c8-e07542ba632c" "Chapter 8.1 (PDF - 1.4MB)" %}}
-- Free Body Diagrams: {{% resource_link "fe63575a-a5e1-314b-c9e1-6c683f4f3846" "Chapter 8.4 (PDF)" %}}
+- Force Laws: Section 8.1
+- Free Body Diagrams: Section 8.4
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
