@@ -5,6 +5,8 @@ draft: false
 title: Online Textbook
 uid: d12ae057-a5dc-4ea0-8af4-cf62abda0530
 ---
+These notes are the 2022 notes.
+
 Chapter 1: Introduction to Classical Mechanics (PDF)
 
 Chapter 2: Units, Dimensional Analysis, Problem Solving, and Estimation (PDF)
