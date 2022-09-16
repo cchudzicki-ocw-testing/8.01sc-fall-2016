@@ -33,6 +33,8 @@ Chapter 13: Energy, Kinetic Energy, and Work (PDF)
 
 Chapter 14: Potential Energy and Conservation of Energy (PDF)
 
+Chapter 14A: Thermal Energy (PDF)
+
 Chapter 15: Collision Theory (PDF)
 
 Chapter 16: Two Dimensional Rotational Kinematics (PDF)
