@@ -81,9 +81,9 @@ READINGS
 {{% resource_link "cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329" "Contact Forces" "#Lesson_6" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Force Laws: {{% resource_link "3f8df4fd-c94a-9a53-65c8-e07542ba632c" "Chapter 8.1 (PDF - 1.4MB)" %}}
-- Constraint Forces: {{% resource_link "885c8281-3dd0-91c7-aaf7-8c93fabb9a5f" "Chapter 8.3 (PDF - 1.2MB)" %}}
-- Free Body Diagrams: {{% resource_link "fe63575a-a5e1-314b-c9e1-6c683f4f3846" "Chapter 8.4 (PDF)" %}}
+- Force Laws: Section 8.1
+- Constraint Forces: Section 8.3
+- Free Body Diagrams: Section 8.4
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -91,9 +91,9 @@ READINGS
 {{% resource_link "cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329" "Tension and Springs" "#Lesson_7" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Force Laws: {{% resource_link "3f8df4fd-c94a-9a53-65c8-e07542ba632c" "Chapter 8.1 (PDF - 1.4MB)" %}}
-- Constraint Forces: {{% resource_link "885c8281-3dd0-91c7-aaf7-8c93fabb9a5f" "Chapter 8.3 (PDF - 1.2MB)" %}}
-- Free Body Diagrams: {{% resource_link "fe63575a-a5e1-314b-c9e1-6c683f4f3846" "Chapter 8.4 (PDF)" %}}
+- Force Laws: Section 8.1
+- Constraint Forces: Section 8.3
+- Free Body Diagrams: Section 8.4
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Deep Dive 1
@@ -109,7 +109,7 @@ No Reading
 {{% resource_link "3c7d357c-bb95-e729-679b-539d23714ede" "Circular Motion - Position and Velocity" "#Lesson_8" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Circular Motion, Velocity and Angular velocity: {{% resource_link "39534690-842d-be2f-fe93-3d4ee5fb4ddc" "Chapter 6.2 (PDF - 1.5MB)" %}}
+- Circular Motion, Velocity and Angular velocity: Section 6.2
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -117,8 +117,8 @@ No Reading
 {{% resource_link "3c7d357c-bb95-e729-679b-539d23714ede" "Uniform Circular Motion" "#Lesson_9" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Tangential and Radial Acceleration: {{% resource_link "91917676-7ae7-c778-d102-71f9b8a397d0" "Chapter 6.3 (PDF - 1.1MB)" %}}
-- Period and Frequency of Uniform Circular Motion: {{% resource_link "916d0ea9-99bf-9926-56e6-64383dc8c150" "Chapter 6.4 (PDF)" %}}
+- Tangential and Radial Acceleration: Section 6.3
+- Period and Frequency of Uniform Circular Motion: Section 6.4
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -126,8 +126,8 @@ No Reading
 {{% resource_link "3c7d357c-bb95-e729-679b-539d23714ede" "Circular Motion - Acceleration" "#Lesson_10" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Tangential and Radial Acceleration: {{% resource_link "91917676-7ae7-c778-d102-71f9b8a397d0" "Chapter 6.3 (PDF - 1.1MB)" %}}
-- Angular Velocity and Angular Acceleration: {{% resource_link "06ddcce4-b9dc-9764-10d6-b600e0985b4c" "Chapter 6.5 (PDF - 1.9MB)" %}}
+- Tangential and Radial Acceleration: Section 6.3
+- Angular Velocity and Angular Acceleration: Section 6.5
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -135,8 +135,8 @@ No Reading
 \[Newton's 2{{< sup "nd" >}} Law and Circular Motion\]({{< baseurl >}}/pages/week-3-circular-motion#Lesson\_11)
 {{< tdclose >}}{{< tdopen >}}
 
-- Universal Law of Gravitation: {{% resource_link "afe68595-6e0b-438a-3f12-d154369e0110" "Chapter 9.2 (PDF)" %}}
-- Worked Examples Circular Motion: {{% resource_link "885e91d3-1e5a-ed13-ea68-6bcd7a48c8af" "Chapter 9.3 (PDF - 1.4MB)" %}}
+- Universal Law of Gravitation: Section 9.2
+- Worked Examples Circular Motion: Section 9.3
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 4: Drag Forces, Constraints and Continuous Systems**
@@ -146,7 +146,7 @@ No Reading
 {{% resource_link "919a2c50-6eb4-551d-940b-b0dbab2356f0" "Pulleys and Constraints" "#Lessson_12" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Worked Example on Pulleys and Ropes Constraints Conditions: {{% resource_link "34162016-fd2b-5af3-e44d-ebf99d954d33" "Chapter 8 (PDF - 6.3MB)" %}}, {{% resource_link "e1cc3897-e10d-74d7-fc1c-33af2e49702b" "Example 8.9 (PDF - 1.2MB)" %}}
+- Worked Example on Pulleys and Ropes Constraints Conditions: Chapter 8, Example 8.9
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -154,9 +154,9 @@ No Reading
 {{% resource_link "919a2c50-6eb4-551d-940b-b0dbab2356f0" "Massive Rope" "#Lessson_13" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Worked examples on massive ropes: {{% resource_link "34162016-fd2b-5af3-e44d-ebf99d954d33" "Chapter 8 (PDF - 6.3MB)" %}}, {{% resource_link "55db6dd2-a8f5-61b5-6294-7230346c72a0" "Examples 8.3–8.4 (PDF - 1.3MB)" %}}
-- Continuous Systems and Newton's Second Law as a Differential Equations: {{% resource_link "a23654ad-bf3a-34c2-100c-bcab86f857f9" "Chapter 8.5.2 (PDF)" %}}
-- Worked Example-Capstan: {{% resource_link "34162016-fd2b-5af3-e44d-ebf99d954d33" "Chapter 8 (PDF - 6.3MB)" %}}, {{% resource_link "fe8bfebc-5f4d-8f11-6e5b-835216c51423" "Example 8.11 (PDF)" %}}
+- Worked examples on massive ropes: Chapter 8, Examples 8.3–8.4
+- Continuous Systems and Newton's Second Law as a Differential Equations: Section 8.5.2
+- Worked Example-Capstan: Chapter 8, Example 8.1
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -164,8 +164,8 @@ No Reading
 {{% resource_link "919a2c50-6eb4-551d-940b-b0dbab2356f0" "Resistive Forces" "#Lessson_14" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Drag forces in Fluids: {{% resource_link "66d953b5-091e-8e1c-0521-9ec56ce8efba" "Chapter 8.6 (PDF - 1.6MB)" %}}
-- Worked Example - Free Fall with Air Drag: {{% resource_link "34162016-fd2b-5af3-e44d-ebf99d954d33" "Chapter 8 (PDF - 6.3MB)" %}}, {{% resource_link "531705cd-7545-572e-0bab-bdaf04bbec86" "Example 8.12 (PDF)" %}}
+- Drag forces in Fluids: Section 8.6
+- Worked Example - Free Fall with Air Drag: Chapter 8, Example 8.12
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 5: Momentum and Impulse**
