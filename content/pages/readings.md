@@ -175,9 +175,9 @@ No Reading
 {{% resource_link "c1168b62-a27d-cf9f-3fe2-550af1ed72f5" "Momentum and Impulse" "#Lessson_15" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Momentum and Impulse: {{% resource_link "b2b17d85-4037-7add-2286-33b463cc3b87" "Chapter 10.2 (PDF)" %}}
-- External and Internal Forces and the Change in Momentum of a System: {{% resource_link "d4ab69fa-c9ff-adb1-83fe-2e303ae0b22d" "Chapter 10.3 (PDF)" %}}
-- System of Particle: {{% resource_link "6bc2b23c-a535-f60e-f92a-35c3d90b2fea" "Chapter 10.4 (PDF)" %}}
+- Momentum and Impulse: Section 10.2
+- External and Internal Forces and the Change in Momentum of a System: Section 10.3
+- System of Particle: Section 10.4
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
@@ -185,9 +185,9 @@ No Reading
 {{% resource_link "c1168b62-a27d-cf9f-3fe2-550af1ed72f5" "Conservation of Momentum" "#Lessson_16" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Constancy of Momentum and Isolated Systems: {{% resource_link "9cf8765a-7b5d-a419-4d25-fa24fcedf8cf" "Chapter 10.7 (PDF)" %}}
-- Momentum Changes and Non-Isolated Systems: {{% resource_link "fb92c560-41c2-b6ff-1d5e-fe54473c297b" "Chapter 10.8 (PDF)" %}}
-- Solved Examples: {{% resource_link "1391fc86-d8c6-a56b-0dbe-af605971b06b" "Chapter 10.9 (PDF - 1.7MB)" %}} and {{% resource_link "ec9a24f7-7513-a647-0d44-6f78f24d4a3d" "Chapter 10 (PDF - 2.8MB)" %}}, {{% resource_link "0479e7ee-387f-3775-7ba2-380951a525f5" "Example 10.6 (PDF)" %}}
+- Constancy of Momentum and Isolated Systems: Section 10.7
+- Momentum Changes and Non-Isolated Systems: Section 10.8
+- Solved Examples: Chapter 10.9 and Chapter 10, Example 10.6
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -195,9 +195,9 @@ No Reading
 {{% resource_link "c1168b62-a27d-cf9f-3fe2-550af1ed72f5" "Center of Mass and Motion of the Center of Mass" "#Lessson_17" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Center of Mass: {{% resource_link "4809a043-c784-c342-b1df-d8f6e6b722aa" "Chapter 10.5 (PDF - 1.3MB)" %}}
-- Translational Motion of the Center of Mass: {{% resource_link "1c52d691-8008-c481-5c72-4cc8669047e0" "Chapter 10.6 (PDF)" %}}
-- Solved Example: {{% resource_link "ec9a24f7-7513-a647-0d44-6f78f24d4a3d" "Chapter 10 (PDF - 2.8MB)" %}}, {{% resource_link "3e470028-87ec-5fb9-fa66-d5ddba8a0440" "Example 10.5 (PDF)" %}}
+- Center of Mass: Section 10.5
+- Translational Motion of the Center of Mass: Section 10.6
+- Solved Example: Chapter 10, Example 10.5
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 6: Continuous Mass Transfer**
@@ -207,7 +207,7 @@ No Reading
 {{% resource_link "28d93f13-f552-de72-9aab-415b7158be8e" "Relative Velocity and Recoil" "#Lessson_18" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Reference Frames: {{% resource_link "d32c03fc-7622-e553-5260-f97e47e38027" "Chapter 11.1–11.4 (PDF - 1.8MB)" %}}
+- Reference Frames: Sections 11.1–11.4
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
@@ -215,7 +215,7 @@ No Reading
 {{% resource_link "28d93f13-f552-de72-9aab-415b7158be8e" "Continuous Mass Transfer" "#Lessson_19" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Momentum and the Flow of Mass: {{% resource_link "458e0f90-330e-e24a-1c11-a5d7e4ccb67b" "Chapter 12.1–12.3 (PDF - 3.0MB)" %}}
+- Momentum and the Flow of Mass: Sections 12.1–12.3
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 7: Kinetic Energy and Work**
@@ -225,12 +225,12 @@ No Reading
 {{% resource_link "1099b766-7930-f7e5-1ccc-c80d63899c02" "Kinetic Energy and Work in 1D" "#Lessson_20" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- The Concept of Energy and Conservation of Energy: {{% resource_link "fbd2cff9-c34f-a807-4117-241e25ed27cd" "Chapter 13.1 (PDF)" %}}
-- Kinetic Energy: {{% resource_link "76ae6490-1474-3f64-2c31-de53cbfb4b27" "Chapter 13.2–13.3 (PDF)" %}}
-- Work: {{% resource_link "1090eaf1-9504-18ee-1db6-0985e5439cde" "Chapter 13.4–13.5 (PDF - 1.4MB)" %}}
-- Work Kinetic Energy Theorem: {{% resource_link "db9ab9ac-b708-6038-1afc-e713f6939bd7" "Chapter 13.6 (PDF)" %}}
-- Power: {{% resource_link "10149984-b666-eedc-79d9-14fba0df0210" "Chapter 13.7 (PDF)" %}}
-- Worked Examples: {{% resource_link "3f14d9f6-7ae6-399e-e5e8-8089e413b4d4" "Chapter 13.10 (PDF)" %}}
+- The Concept of Energy and Conservation of Energy: Section 13.1
+- Kinetic Energy: Sections 13.2–13.3
+- Work: Sections 13.4–13.5
+- Work Kinetic Energy Theorem: Section 13.6
+- Power: Section 13.7
+- Worked Examples: Section 13.10
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -238,10 +238,10 @@ No Reading
 {{% resource_link "1099b766-7930-f7e5-1ccc-c80d63899c02" "Kinetic Energy and Work in 2D and 3D" "#Lessson_21" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Work and Scalar Product: {{% resource_link "567573a9-6ae6-96ed-ef9a-3301d6b00ab3" "Chapter 13.8 (PDF - 1.2MB)" %}}
-- Work Done by a Non-constant Force Along an Arbitrary Path: {{% resource_link "d1c51490-7cc7-fc18-8891-dc88bd198476" "Chapter 13.9 (PDF)" %}}
-- Worked Examples: {{% resource_link "3f14d9f6-7ae6-399e-e5e8-8089e413b4d4" "Chapter 13.10 (PDF)" %}}
-- Work Kinetic Energy Theorem in 3D: {{% resource_link "cd18c976-67a6-c928-ff7f-b1721c9e0b88" "Chapter 13.11 (PDF)" %}}
+- Work and Scalar Product: Section 13.8
+- Work Done by a Non-constant Force Along an Arbitrary Path: Section 13.9
+- Worked Examples: Section 13.10
+- Work Kinetic Energy Theorem in 3D: Section 13.11
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
