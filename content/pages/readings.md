@@ -249,8 +249,8 @@ No Reading
 {{% resource_link "1099b766-7930-f7e5-1ccc-c80d63899c02" "Conservative and Non-conservative Forces" "#Lessson_22" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Conservation of Energy: {{% resource_link "8aef2503-3e72-aec6-d495-1f6ced0bb5f5" "Chapter 14.1 (PDF)" %}}
-- Conservative and Non-conservative Forces: {{% resource_link "60e99a2e-c5c7-fccc-bb00-87e267e11aa4" "Chapter 14.2 (PDF)" %}}
+- Conservation of Energy: Section 14.1
+- Conservative and Non-conservative Forces: Section 14.2
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 8: Potential Energy and Energy Conservation**
@@ -260,8 +260,8 @@ No Reading
 {{% resource_link "13949981-43ef-cc49-3f7c-98265cfbd3ae" "Potential Energy" "#Lessson_23" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Changes in Potential Energy of a System: {{% resource_link "bf16a825-aa09-e69e-6999-0fca0699f7cc" "Chapter 14.3 (PDF)" %}}
-- Changes in Potential Energy and Zero Point of Potential Energy: {{% resource_link "43385423-c48e-5588-b5d8-ff0101143c20" "Chapter 14.4 (PDF)" %}}
+- Changes in Potential Energy of a System: Section 14.3
+- Changes in Potential Energy and Zero Point of Potential Energy: Section 14.4
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
@@ -269,10 +269,10 @@ No Reading
 {{% resource_link "13949981-43ef-cc49-3f7c-98265cfbd3ae" "Conservation of Energy" "#Lessson_24" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Mechanical Energy and Conservation of Mechanical Energy: {{% resource_link "bc4a927d-d0e7-f112-360e-6c3e0eddb5c3" "Chapter 14.5 (PDF)" %}}
-- Change of Mechanical Energy for Closed System with Internal Non-conservative Forces: {{% resource_link "b178a639-a30e-a0d6-2ad9-70f33a97b7b5" "Chapter 14.7 (PDF)" %}}
-- Dissipative Forces: Friction: {{% resource_link "33eeea06-c8ab-92d7-c7a5-156193018535" "Chapter 14.8 (PDF)" %}}
-- Worked Examples: {{% resource_link "0bffa60f-af4b-f8a7-35f6-e78c5346ef32" "Chapter 14.9 (PDF - 2.0MB)" %}}
+- Mechanical Energy and Conservation of Mechanical Energy: Section 14.5
+- Change of Mechanical Energy for Closed System with Internal Non-conservative Forces: Section 14.7
+- Dissipative Forces: Friction: Section 14.8
+- Worked Examples: Section 14.9
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
@@ -280,7 +280,7 @@ No Reading
 {{% resource_link "13949981-43ef-cc49-3f7c-98265cfbd3ae" "Potential Energy Diagrams" "#Lessson_25" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Spring Force Energy Diagrams: {{% resource_link "093d4bdd-48f3-f167-36bc-c623f4c3bd53" "Chapter 14.6 (PDF)" %}}
+- Spring Force Energy Diagrams: Section 14.8
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 9: Collision Theory**
@@ -290,7 +290,7 @@ No Reading
 {{% resource_link "bc33ee80-c8fd-90e4-dfda-7092ddd24879" "Types of Collision" "#Lessson_26" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Collision Theory: {{% resource_link "16d5d8cf-5fff-4f11-5d83-a034261fbed3" "Chapter 15 (PDF - 3.5MB)" %}}
+- Collision Theory: Chapter 15
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 27
@@ -298,7 +298,7 @@ No Reading
 {{% resource_link "bc33ee80-c8fd-90e4-dfda-7092ddd24879" "Elastic Collisions" "#Lessson_27" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Collision Theory: {{% resource_link "16d5d8cf-5fff-4f11-5d83-a034261fbed3" "Chapter 15 (PDF - 3.5MB)" %}}
+- Collision Theory: Chapter 15
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Deep Dive 2
@@ -314,7 +314,7 @@ No Reading
 {{% resource_link "146d8dd7-7c99-bbaf-ceb8-ed10af8bee47" "Motion of a Rigid Body" "#Lesson_28" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Two dimensional Rotational Kinematics: {{% resource_link "8665bd83-3952-27df-a649-060d5e3d970a" "Chapter 16.1–16.2 (PDF)" %}}
+- Two dimensional Rotational Kinematics: Sections 16.1–16.2
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 29
@@ -322,7 +322,7 @@ No Reading
 {{% resource_link "146d8dd7-7c99-bbaf-ceb8-ed10af8bee47" "Moment of Inertia" "#Lesson_29" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Two dimensional Rotational Kinematics: {{% resource_link "b44d7047-4b3f-ac9e-5cfc-fbc2b156f1bf" "Chapter 16.3–16.4 (PDF - 1.8MB)" %}}
+- Two dimensional Rotational Kinematics: Sections 16.3–16.4
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 30
@@ -330,8 +330,8 @@ No Reading
 {{% resource_link "146d8dd7-7c99-bbaf-ceb8-ed10af8bee47" "Torque" "#Lesson_30" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Two dimensional Rotational Dynamics: {{% resource_link "2787c226-19f0-4e25-be1d-013cc10f4a18" "Chapter 17.1–17.3 (PDF - 1.9MB)" %}}
-- Static Equilibrium: {{% resource_link "2c646c23-4bc7-10b8-f78d-207d83e747b7" "Chapter 18 (PDF - 2.0MB)" %}}
+- Two dimensional Rotational Dynamics: Sections 17.1–17.3
+- Static Equilibrium: Chapter 18
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 31
@@ -339,8 +339,8 @@ No Reading
 {{% resource_link "146d8dd7-7c99-bbaf-ceb8-ed10af8bee47" "Rotational Dynamics" "#Lesson_31" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Two dimensional Rotational Dynamics: {{% resource_link "e17fdde8-7d87-c481-aa99-d68ebba27b87" "Chapter 17.4–17.5 (PDF - 2.4MB)" %}}
-- Static Equilibrium: {{% resource_link "2c646c23-4bc7-10b8-f78d-207d83e747b7" "Chapter 18 (PDF- 2.0MB)" %}}
+- Two dimensional Rotational Dynamics: Sections 17.4–17.5
+- Static Equilibrium: Chapter 18
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 11: Angular Momentum**
@@ -350,7 +350,7 @@ No Reading
 {{% resource_link "d36579bd-7dfc-b71f-7617-8b4b8d45c312" "Angular Momentum of a Point Particle" "#Lesson_32" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Angular Momentum: {{% resource_link "cb3e16ce-2bb3-1db5-1a68-285b1d84cc12" "Chapter 19.1–19.2 (PDF- 2.0MB)" %}}
+- Angular Momentum: Sections 19.1–19.2
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 33
@@ -358,7 +358,7 @@ No Reading
 {{% resource_link "d36579bd-7dfc-b71f-7617-8b4b8d45c312" "Angular Momentum of a Rigid Body about a Fixed Axis" "#Lesson_33" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Angular Momentum: {{% resource_link "15c23f75-2973-9dcb-f39e-86a9275ecba2" "Chapter 19.6–19.7 (PDF - 2.4MB)" %}}
+- Angular Momentum: Sections 19.6–19.7
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 34
@@ -366,7 +366,7 @@ No Reading
 {{% resource_link "d36579bd-7dfc-b71f-7617-8b4b8d45c312" "Torque and Angular Impulse" "#Lesson_34" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Angular Momentum: {{% resource_link "6f3ccbda-cfaf-6be4-ad52-4792b15182de" "Chapter 19.3–19.5 (PDF - 1.2MB)" %}}, {{% resource_link "829f0200-e79a-8de1-43c3-6233272974e6" "Chapter 19.8–19.9 (PDF - 1.6MB)" %}}
+- Angular Momentum: Sections 19.3-19.5, Sections 19.8–19.9
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 12: Rotations and Translation - Rolling**
@@ -376,7 +376,7 @@ No Reading
 {{% resource_link "fbf76190-d89e-eed2-930e-51f9ac3bf2a6" "Rolling Kinematics" "#Lesson_35" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Kinematics of translation and rotation: {{% resource_link "f208afd5-2773-9e38-a726-2acf616e54f9" "Chapter 20 (PDF - 3.2MB)" %}}
+- Kinematics of translation and rotation: Chapter 20
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 36
@@ -384,7 +384,7 @@ No Reading
 {{% resource_link "fbf76190-d89e-eed2-930e-51f9ac3bf2a6" "Rolling Dynamics" "#Lesson_36" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Dynamics of translation and rotation: {{% resource_link "9d215cf7-7dc0-b263-79ba-e38217e2bc11" "Chapter 21 (PDF - 4.1MB)" %}}
+- Dynamics of translation and rotation: Chapter 21
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 37
@@ -392,8 +392,8 @@ No Reading
 {{% resource_link "fbf76190-d89e-eed2-930e-51f9ac3bf2a6" "Rolling Kinetic Energy and Angular Momentum" "#Lesson_37" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-- Kinematics of translation and rotation: {{% resource_link "f208afd5-2773-9e38-a726-2acf616e54f9" "Chapter 20 (PDF - 3.2MB)" %}}
-- Dynamics of translation and rotation: {{% resource_link "9d215cf7-7dc0-b263-79ba-e38217e2bc11" "Chapter 21 (PDF - 4.1MB)" %}}
+- Kinematics of translation and rotation: Chapter 20
+- Dynamics of translation and rotation: Chapter 21
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Deep Dive 3
