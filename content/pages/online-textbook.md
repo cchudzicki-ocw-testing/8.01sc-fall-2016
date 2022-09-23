@@ -15,7 +15,7 @@ These notes are the 2022 notes.
 
 {{% resource_link "1f548846-e671-497a-8f2a-6d239e96da0f" "Chapter 4: One Dimensional Kinematics (PDF - 3.2 MB)" %}}
 
-Chapter 5: Two Dimensional Kinematics (PDF)
+{{% resource_link "9a597975-e7c7-4713-90e6-474f2a9f7848" "Chapter 5: Two Dimensional Kinematics (PDF - 2.3 MB)" %}}
 
 Chapter 6: Circular Motion (PDF)
 
