@@ -9,11 +9,11 @@ These notes are the 2022 notes.
 
 Chapter 1: Introduction to Classical Mechanics (PDF)
 
-Chapter 2: Units, Dimensional Analysis, Problem Solving, and Estimation (PDF)
+Chapter 2: Units, Dimensional Analysis, Problem Solving, and Estimation (PDF - 4.5 MB)
 
-Chapter 3: Vectors (PDF)
+Chapter 3: Vectors (PDF - 4.4 MB)
 
-Chapter 4: One Dimensional Kinematics (PDF)
+Chapter 4: One Dimensional Kinematics (PDF - 3.2 MB)
 
 Chapter 5: Two Dimensional Kinematics (PDF)
 
@@ -69,7 +69,7 @@ Chapter 29: Kinetic Theory of Gases (PDF)
 
 Chapter 30: Navier Stokes Equation (PDF)
 
-Chapter 31: Non-Inertial Linear and Rotating Reference Frames (PDF)
+{{% resource_link "a14e2534-1549-4b4d-b9ca-b6dfaf4d9a32" "Chapter 31: Non-Inertial Linear and Rotating Reference Frames (PDF - 6 MB)" %}}
 
 Physical Constants (PDF)
 
