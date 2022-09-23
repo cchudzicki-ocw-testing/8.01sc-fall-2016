@@ -7,13 +7,13 @@ uid: d12ae057-a5dc-4ea0-8af4-cf62abda0530
 ---
 These notes are the 2022 notes.
 
-Chapter 1: Introduction to Classical Mechanics (PDF)
+{{% resource_link "5bf39535-8bfc-4f5a-b101-a9f2745adf03" "Chapter 1: Introduction to Classical Mechanics (PDF)" %}}
 
-Chapter 2: Units, Dimensional Analysis, Problem Solving, and Estimation (PDF - 4.5 MB)
+{{% resource_link "9a4cf1a1-4e84-4d4f-b2d6-9b719a221553" "Chapter 2: Units, Dimensional Analysis, Problem Solving, and Estimation (PDF - 4.5 MB)" %}}
 
-Chapter 3: Vectors (PDF - 4.4 MB)
+{{% resource_link "f894b9dc-8c0e-4605-9e96-1492c2b9e12a" "Chapter 3: Vectors (PDF - 4.4 MB)" %}}
 
-Chapter 4: One Dimensional Kinematics (PDF - 3.2 MB)
+{{% resource_link "1f548846-e671-497a-8f2a-6d239e96da0f" "Chapter 4: One Dimensional Kinematics (PDF - 3.2 MB)" %}}
 
 Chapter 5: Two Dimensional Kinematics (PDF)
 
@@ -71,6 +71,6 @@ Chapter 30: Navier Stokes Equation (PDF)
 
 {{% resource_link "a14e2534-1549-4b4d-b9ca-b6dfaf4d9a32" "Chapter 31: Non-Inertial Linear and Rotating Reference Frames (PDF - 6 MB)" %}}
 
-Physical Constants (PDF)
+{{% resource_link "eb55f49a-2b27-4d4d-981c-e0268e4045c0" "Physical Constants (PDF)" %}}
 
-Astronomical Data (PDF)
+{{% resource_link "6c91a96a-840b-443d-bfdf-fe1c29d57d24" "Astronomical Data (PDF)" %}}
