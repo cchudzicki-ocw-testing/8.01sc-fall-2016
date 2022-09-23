@@ -17,57 +17,55 @@ These notes are the 2022 notes.
 
 {{% resource_link "9a597975-e7c7-4713-90e6-474f2a9f7848" "Chapter 5: Two Dimensional Kinematics (PDF - 2.3 MB)" %}}
 
-Chapter 6: Circular Motion (PDF)
+Chapter 6: Circular Motion (PDF - 2.6 MB)
 
 Chapter 7: Newton’s Laws of Motion (PDF)
 
-Chapter 8: Applications of Newton’s Second Law (PDF)
+Chapter 8: Applications of Newton’s Second Law (PDF - 6 MB)
 
-Chapter 9: Circular Motion Dynamics (PDF)
+Chapter 9: Circular Motion Dynamics (PDF - 2.4 MB)
 
-Chapter 10: Momentum, System of Particles, and Conservation of Momentum (PDF)
+Chapter 10: Momentum, System of Particles, and Conservation of Momentum (PDF - 3 MB)
 
-Chapter 11: Reference Frames (PDF)
+Chapter 11: Reference Frames (PDF - 1.4 MB)
 
-Chapter 12: Momentum and the Flow of Mass (PDF)
+Chapter 12: Momentum and the Flow of Mass (PDF - 3.3 MB)
 
-Chapter 13: Energy, Kinetic Energy, and Work (PDF)
+Chapter 13: Energy, Kinetic Energy, and Work (PDF - 5.1 MB)
 
-Chapter 14: Potential Energy and Conservation of Energy (PDF)
+Chapter 14: Potential Energy and Conservation of Energy (PDF - 6.1 MB)
 
-Chapter 14A: Thermal Energy (PDF)
+Chapter 15: Collision Theory (PDF - 3.3 MB)
 
-Chapter 15: Collision Theory (PDF)
+Chapter 16: Two Dimensional Rotational Kinematics (PDF - 2.4 MB)
 
-Chapter 16: Two Dimensional Rotational Kinematics (PDF)
+Chapter 17: Two Dimensional Rotational Dynamics (PDF - 4 MB)
 
-Chapter 17: Two Dimensional Rotational Dynamics (PDF)
+Chapter 18: Static Equilibrium (PDF - 2.2 MB)
 
-Chapter 18: Static Equilibrium (PDF)
+Chapter 19: Angular Momentum (PDF - 4.2 MB)
 
-Chapter 19: Angular Momentum (PDF)
+Chapter 20: Rigid Body Kinematics About a Fixed Axis (PDF - 3.1 MB)
 
-Chapter 20: Rigid Body Kinematics About a Fixed Axis (PDF)
+Chapter 21: Rigid Body Dynamics About a Fixed Axis (PDF - 4.4 MB)
 
-Chapter 21: Rigid Body Dynamics About a Fixed Axis (PDF)
+Chapter 22: Three Dimensional Rotations and Gyroscopes (PDF - 3.5 MB)
 
-Chapter 22: Three Dimensional Rotations and Gyroscopes (PDF)
+Chapter 23: Simple Harmonic Motion (PDF - 5.9 MB)
 
-Chapter 23: Simple Harmonic Motion (PDF)
+Chapter 24: Physical Pendulum (PDF - 2.3 MB)
 
-Chapter 24: Physical Pendulum (PDF)
+Chapter 25: Celestial Mechanics (PDF - 4.4 MB)
 
-Chapter 25: Celestial Mechanics (PDF)
+Chapter 26: Elastic Properties of Materials (PDF - 2.6 MB)
 
-Chapter 26: Elastic Properties of Materials (PDF)
+Chapter 27: Static Fluids (PDF - 1.8 MB)
 
-Chapter 27: Static Fluids (PDF)
+Chapter 28: Fluid Dynamics (PDF - 2.5 MB)
 
-Chapter 28: Fluid Dynamics (PDF)
+Chapter 29: Kinetic Theory of Gases (PDF - 1.8 MB)
 
-Chapter 29: Kinetic Theory of Gases (PDF)
-
-Chapter 30: Navier Stokes Equation (PDF)
+Chapter 30: Navier Stokes Equation (PDF - 2.2 MB)
 
 {{% resource_link "a14e2534-1549-4b4d-b9ca-b6dfaf4d9a32" "Chapter 31: Non-Inertial Linear and Rotating Reference Frames (PDF - 6 MB)" %}}
 
