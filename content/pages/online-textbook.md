@@ -5,7 +5,7 @@ draft: false
 title: Online Textbook
 uid: d12ae057-a5dc-4ea0-8af4-cf62abda0530
 ---
-These notes are the 2022 notes.
+These notes were updated in 2022 to reflect corrections that readers have noticed.
 
 {{% resource_link "5bf39535-8bfc-4f5a-b101-a9f2745adf03" "Chapter 1: Introduction to Classical Mechanics (PDF)" %}}
 
