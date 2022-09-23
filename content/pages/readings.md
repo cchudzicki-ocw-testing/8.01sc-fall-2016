@@ -10,7 +10,7 @@ uid: 8897a3b7-567f-b552-81b3-2f8a1de7b53b
 ---
 « {{% resource_link "63b200b4-6b93-d532-b387-9a3d37067265" "Previous" %}} | {{% resource_link "14fc866f-f60f-c69f-19eb-4338bbc87675" "Next" %}} »
 
-The course notes are available as an {{% resource_link "d12ae057-a5dc-4ea0-8af4-cf62abda0530" "online textbook" %}}. 
+The Readings are available in the {{% resource_link "d12ae057-a5dc-4ea0-8af4-cf62abda0530" "online textbook" %}} section.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LESSON #
