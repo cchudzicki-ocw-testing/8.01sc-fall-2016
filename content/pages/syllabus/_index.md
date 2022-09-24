@@ -53,7 +53,7 @@ The textbook for this course is {{% resource_link "d12ae057-a5dc-4ea0-8af4-cf62a
 - {{% resource_link "bc33ee80-c8fd-90e4-dfda-7092ddd24879" "Week 9: Collision Theory" %}}
 - {{% resource_link "146d8dd7-7c99-bbaf-ceb8-ed10af8bee47" "Week 10: Rotational Motion" %}}
 - {{% resource_link "d36579bd-7dfc-b71f-7617-8b4b8d45c312" "Week 11: Angular Momentum" %}}
-- {{% resource_link "fbf76190-d89e-eed2-930e-51f9ac3bf2a6" "Week 12: Rotations and Translation - Rollin" %}}g
+- {{% resource_link "fbf76190-d89e-eed2-930e-51f9ac3bf2a6" "Week 12: Rotations and Translation - Rolling" %}}
 
 ## How to Use This Site
 
