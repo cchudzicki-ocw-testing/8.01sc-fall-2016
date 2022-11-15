@@ -55,7 +55,7 @@ These notes were updated in 2022 to reflect corrections that readers have notice
 
 {{% resource_link "14fa9a91-d0f5-4187-92bc-e3c477c98340" "Chapter 24: Physical Pendulum (PDF - 2.3 MB)" %}}
 
-{{% resource_link "9276fcce-7d55-4017-a1bf-5023b327e64f" "Chapter 25: Celestial Mechanics (PDF - 4.4 MB)" %}}
+{{% resource_link "072f6bcd-0a21-4c52-a0cc-d5a4bd77b817" "Chapter 25: Celestial Mechanics (PDF - 4.5 MB)" %}}
 
 {{% resource_link "0dcc3575-079c-4dd6-ba6f-e1fcb3b13035" "Chapter 26: Elastic Properties of Materials (PDF - 2.6 MB)" %}}
 
