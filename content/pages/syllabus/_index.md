@@ -8,7 +8,7 @@ ocw_type: CourseSection
 title: Syllabus
 uid: 8488bde4-6909-b726-a411-abeee039ef1a
 ---
-« \[Previous\]({{< baseurl >}}/) | {{% resource_link "63b200b4-6b93-d532-b387-9a3d37067265" "Next" %}} »
+{{% resource_link "63b200b4-6b93-d532-b387-9a3d37067265" "Next" %}} »
 
 ## Video Introduction by Prof. Deepto Chakrabarty and Dr. Peter Dourmashkin
 
