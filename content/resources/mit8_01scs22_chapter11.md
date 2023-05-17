@@ -8,12 +8,14 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Online Textbook
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: MIT8_01scS22_chapter11.pdf
 uid: 9312ff3f-0f70-4799-acc5-c1654dac58c6
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''
