@@ -8,12 +8,14 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Online Textbook
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '8.01SC S22 Chapter 25: Celestial Mechanics'
 uid: 072f6bcd-0a21-4c52-a0cc-d5a4bd77b817
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''
